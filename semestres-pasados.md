@@ -6,6 +6,7 @@ title: Semestres pasados
 
 ## Versiones pasadas del curso 
 
+- [Sitio 2023-1](https://puc-infovis.github.io/version-2023-1/)
 - [Sitio 2022](https://puc-infovis.github.io/version-2022/)
 - [Sitio 2021](https://puc-infovis.github.io/version-2021/)
 - [Sitio 2020](https://puc-infovis.github.io/version-2020/)
