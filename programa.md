@@ -172,7 +172,7 @@ Cada estudiante aprobará si:
 
 El objetivo de esta política es relajar la exigencia de aprobación del projecto para todo estudiante que logró demostrar adecuadamente su aprendizaje en las tareas, pero seguir exigiendo un desarrollo mínimo de la última evalución integradora.
 
-En caso de cumplir todos los criterios, la nota final **NF** de cada estudiante será igual a la nota de presentación bonificado con las décimas otorgadas por la revisión de contenidos **RC** (**NP + bono RC**). En otro caso, la nota final **NF** será al mínimo entre ****NP + bono RC**** y **3.95**.
+En caso de cumplir todos los criterios, la nota final **NF** de cada estudiante será igual a la nota de presentación bonificado con las décimas otorgadas por la revisión de contenidos **RC** (**NP + bono RC**). En otro caso, la nota final **NF** será al mínimo entre **NP + bono RC** y **3.95**.
 
 Todas las notas, a excepción de la nota final del curso **NF**, serán calculadas con un redondeo a **dos decimales**
 
