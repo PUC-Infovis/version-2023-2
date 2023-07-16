@@ -8,7 +8,8 @@ En este sitio podrás acceder a todo el material del curso e links de interes, e
 
 ## Material
 
-Trabajo pendiente
+Todo material del curso (PDF de clases, códigos y ayudantías) estará disponible en el [Syllabus del curso](https://github.com/PUC-Infovis/Syllabus-2023-2). Las dudas del curso serán resueltas en la parte de [_Discussions_ del Syllabus](https://github.com/PUC-Infovis/Syllabus-2023-2/discussions).
+
 
 
 ## Equipo Docente
