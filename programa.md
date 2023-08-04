@@ -91,7 +91,7 @@ El curso contará con ayudantías semanales con el fin de brindar otro espacio d
 
 ## 6. Evaluación
 
-La evaluación de cada estudiante será efectuada mediante cuatro tipos de evaluaciones, algunas opcionales y otras obligatorias: una de naturaleza continua durante el semestre, **la revisión de contenidos**; dos del tipo práctico, **tareas** y un **proyecto**; y una examen final.
+La evaluación de cada estudiante será efectuada mediante cuatro tipos de evaluaciones, algunas opcionales y otras obligatorias: una de naturaleza continua durante el semestre, **la revisión de contenidos**; dos del tipo práctico, **tareas** y un **proyecto**; y un **examen final**.
 
 Todas estas evaluaciones buscan proponer instancias de práctica o evidencia de las habilidades indicadas al comienzo del documento como resultados de aprendizaje de los y las estudiantes del curso. Hacen esto al proponer situaciones de aplicación de los contenidos del curso ya sea aplicando el proceso de diseño presentado, implementando soluciones mediante programación o utilizando _software_ especializado en confeccionar visualizaciones.
 
@@ -107,7 +107,7 @@ Este tipo de evaluación **es opcional** para cada estudiante. Por cada instanci
 
 Las tareas son evaluaciones sumativas cuyo fin es evaluar y buscan evidencia de ciertas habilidades desarrolladas por las y los estudiantes durante el curso. Este tipo de evaluación **no es opcional** para cada estudiante y su desarrollo es **individual**. En caso de no entregar una tarea, esta será evaluada con la nota mínima.
 
-Durante el semestre el curso constará con cuantro instancias de tareas prácticas que otorgarían a cada estudiante notas: **T1**, **T2**, **T3**, **T4**. Cada tarea contará con un plazo de una semana para su realización a excepción de la **T2** que contará con 2 semanas para su realización. Además, todas las entregas serán a las 20:00 hrs.
+Durante el semestre el curso constará con cuatro instancias de tareas prácticas que otorgarían a cada estudiante notas: **T1**, **T2**, **T3**, **T4**. Cada tarea contará con un plazo de una semana para su realización a excepción de la **T2** que contará con 2 semanas para su realización. Además, todas las entregas serán a las 20:00 hrs.
 
 La nota final de los tareas (**NT**) se calcula como:
 
@@ -148,7 +148,7 @@ Para las **tareas** se permitirá realizar entregas con hasta **3 días de atras
 nota_final_tarea = Math.min( (7 − (0.5 × días_de_atraso) ), nota_obtenida ) + bonus
 ```
 
-En otras palabras, este descuento solo acota la nota que puede aspilar el estudiantado. En caso que la nota obtenida en la evaluación sea menor a la nota máxima a aspilar, la evaluación no presentará ningún descuento. Luego, una vez aplicado el descuento por atraso, se aplicará cualquier *bonus* que presente la evaluación.
+En otras palabras, este descuento solo acota la nota que puede aspirar el estudiantado. En caso que la nota obtenida en la evaluación sea menor a la nota máxima a aspirar, la evaluación no presentará ningún descuento. Luego, una vez aplicado el descuento por atraso, se aplicará cualquier *bonus* que presente la evaluación.
 
 Aún así, en caso de que un o una estudiante presente problemas personales o problemas de fuerza mayor, la persona podrá solicitar una extensión mayor a los 3 días de atraso permitidos. Dicha extensión incluirá una penalización a la nota y la extensión a otorgar se definirá para cada solicitud. También, se confiará en el criterio personal de cada estudiante en hacer este tipo de solicitudes y la carga que significa en el equipo docente.
 
