@@ -26,7 +26,8 @@ html[data-theme="dark"] {
 }
 
 
-strong, strong code {
+strong,
+strong code {
     color: var(--primario);
 }
 
@@ -321,6 +322,7 @@ screen and (max-width: 960px) {
         width: auto;
         margin: 0
     }
+
     .header,
     section,
     footer {
@@ -328,21 +330,26 @@ screen and (max-width: 960px) {
         position: static;
         width: auto
     }
+
     footer {
         /* border-top: 1px solid #ccc; */
         margin: 0 84px 0 50px;
         padding: 0
     }
+
     .header {
         padding-right: 320px
     }
+
     section {
         padding: 20px 84px 20px 50px;
         margin: 0 0 20px
     }
+
     .header a small {
         display: inline
     }
+
     .header ul {
         position: absolute;
         right: 130px;
@@ -355,21 +362,26 @@ screen and (max-width: 720px) {
     body {
         word-wrap: break-word
     }
+
     .header {
         padding: 10px 20px 0;
         margin-right: 0
     }
+
     section {
         padding: 10px 0 10px 20px;
         margin: 0 0 30px
     }
+
     footer {
         margin: 0 0 0 30px
     }
+
     .header ul,
     .header p.view {
         position: static
     }
+
     th {
         font-size: 15px;
     }
@@ -380,12 +392,15 @@ screen and (max-width: 480px) {
     .header ul li.download {
         display: none
     }
+
     footer {
         margin: 0 0 0 20px
     }
+
     footer a {
         display: block
     }
+
     th {
         font-size: 15px;
     }
@@ -442,4 +457,25 @@ screen and (max-width: 480px) {
 
 input:checked+.slider {
     transform: translateX(12px);
+}
+
+/* Salon de la fama */
+
+.cards-layout {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.rol-card {
+    text-align: center;
+    border-radius: 50px;
+    border: 1px solid var(--secundario);
+    margin: 10px;
+    padding: 30px;
+    width: 150px;
+}
+
+.rol-card h3{
+    margin-top: 0px;
 }
