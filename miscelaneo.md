@@ -21,14 +21,17 @@ b. [Explicación de _transform_ en SVG](https://css-tricks.com/transforms-on-svg
 
 ## 3. Ejemplo de Visualizaciones
 
-a. Casos de _Storytellings_
+a. Visualizaciones interesantes
+- [Tabla Periodica de visualizaciones](https://www.visual-literacy.org/periodic_table/periodic_table.html)
+
+b. Casos de _Storytellings_
 
 - [Más de 100 _Storytellings_](https://pudding.cool/)
 - [Explicación de la película Incepction (El Origen)](http://www.inception-explained.com/)
 - [Why 7,000 people die needlessly every day](https://news.sky.com/story/why-7-000-people-die-needlessly-every-day-11770982)
 - [A visual analysis of BATTLE AT THE BERRICS](http://www.georgelmurphy.com/berrics/)
 
-b. Compilado de visualizaciones (con excelente o ineficiente diseño)
+C. Compilado de visualizaciones (con excelente o ineficiente diseño)
 
 - [Viz.wtf](https://viz.wtf/)
 - [Visualizaciones semanales por AnyChart](https://www.anychart.com/blog/category/data-visualization-weekly/)
