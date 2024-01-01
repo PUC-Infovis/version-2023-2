@@ -1,0 +1,226 @@
+/*------------------------------------------  HEADER   -------------------------------------------*/
+.header {
+    width: 100vw;
+    height: 300px;
+    background-image: url('assets/header9.gif');
+    background-size: auto 100px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 0 0 100px 100px;
+    margin: 0 auto;
+    position: relative;
+    right: 9%;
+}
+
+/*------------------------------------------  BODY   -------------------------------------------*/
+body {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    background-color: white;
+    max-width: 90%;
+    min-width: 500px;
+    text-align: center;
+    margin-bottom: 80px;
+    margin: 100px;
+}
+
+.container {
+    text-align: center;
+}
+
+
+/*------------------------------------------  TEXTOS   -------------------------------------------*/
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    color: #D53302;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 2000;
+    font-size: 20px;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 2000;
+    font-size: 12px;
+    color: rgb(179, 171, 171);
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+.nombres{
+    background-color: #D53302;
+}
+
+.parrafoinforme {
+    font-weight: bold;
+    color: #8FB1BE;
+}
+
+
+.texto-titulo {
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(77, 52, 121) !important;
+
+}
+
+#visibilizar {
+    font-weight: bold;
+    font-size: 18px;
+    color: #8FB1BE;
+}
+
+/*----------------------------------  DIVS INDEX INFORME  ----------------------------------------*/
+.response {
+    background-color: white;
+    border: 1px solid white !important;
+    border-radius: 10px;
+}
+
+.case h2 {
+    padding: 15px;
+    margin: 15px;
+}
+
+.response {
+    text-align: start;
+    border: solid gray 2px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.response h5 {
+    margin: 0px;
+    color: rgb(57, 57, 57);
+}
+
+.response h4 {
+    margin-bottom: 0px;
+}
+
+.img {
+    max-width: 800px;
+    display: inline-flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.hint {
+    opacity: 0.7;
+    color: rgb(200, 42, 42);
+    border: 1px solid;
+    padding: 5px;
+    font-weight: bolder;
+}
+
+#visualizacion1 {
+    width: 100%;
+}
+
+#visualizacion2 {
+    clear: both;
+}
+
+
+#visualizaicon3 {
+    clear: both;
+
+}
+
+/*------------------------------------------  BOTONES   ------------------------------------------*/
+.boton {
+    padding: 10px 20px;
+    background-color: #A0CBAD;
+    border: 1px solid #A0CBAD !important;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.boton:hover {
+    background-color: rgb(44, 6, 62);
+    border: 1px solid rgb(44, 6, 62) !important;
+    color: white;
+}
+
+
+/*--------------------------  SVG CONTAINERS VISUALIZACION 1 -------------------------------------*/
+
+#vis-1 svg,
+#vis-2 svg,
+#vis-3 svg,
+#vis-4 svg,
+#vis-5 svg,
+#vis-6 svg {
+    border: solid 4px white;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    width: auto;
+    height: auto;
+    margin: 1%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+#vis-7 svg,
+#vis-8 svg,
+#vis-9 svg {
+    border: solid 4px white;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    width: auto;
+    height: auto;
+    margin: 10px;
+    padding: 5px;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.stemchile {
+    display: flex;
+    justify-content: center;
+}
+
+
+/*------------------------------------------  FOOTER ------------------------------------------*/
+footer {
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    background-color: #A0CBAD;
+    color: white;
+    height: 30px;
+    font-size: 15px;
+    line-height: 4px; 
+
+}

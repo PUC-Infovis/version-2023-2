@@ -1,0 +1,61 @@
+[
+    {"Region":"ARICA Y PARINACOTA",
+    "Hombres":69,
+    "Mujeres":31},
+
+    {"Region":"TARAPACÁ",
+    "Hombres":68,
+    "Mujeres":32},
+
+    {"Region":"ANTOFAGASTA",
+    "Hombres":67,
+    "Mujeres":33},
+
+    {"Region":"ATACAMA",
+    "Hombres":80,
+    "Mujeres":20},
+
+    {"Region":"COQUIMBO",
+    "Hombres":68,
+    "Mujeres":32},
+
+    {"Region":"VALPARAÍSO",
+    "Hombres":69,
+    "Mujeres":31},
+
+    {"Region":"METROPOLITANA",
+    "Hombres":65,
+    "Mujeres":35},
+
+    {"Region":"LIBERTADOR BERNARDO O’HIGGINS",
+    "Hombres":64,
+    "Mujeres":36},
+
+    {"Region":"MAULE",
+    "Hombres":66,
+    "Mujeres":34},
+
+    {"Region":"BIOBÍO",
+    "Hombres":67,
+    "Mujeres":33},
+
+    {"Region":"ARAUCANÍA",
+    "Hombres":63,
+    "Mujeres":37},
+
+    {"Region":"LOS RÍOS",
+    "Hombres":66,
+    "Mujeres":34},
+
+    {"Region":"LOS LAGOS",
+    "Hombres":64,
+    "Mujeres":36},
+
+    {"Region":"AYSÉN",
+    "Hombres":59,
+    "Mujeres":41},
+
+    {"Region":"MAGALLANES",
+    "Hombres":61,
+    "Mujeres":39}
+]

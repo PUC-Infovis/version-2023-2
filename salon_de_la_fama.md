@@ -11,15 +11,6 @@ El alcance de este trabajo era acotado, y sobre un tema y _dataset_ a elección 
 En esta página les compartimos algunos de los resultados de esta evaluación, con permiso de sus autores. Con algunos proyectos será necesario realizar _zoom out_ para poder ver la herramienta como corresponde.
 
 <div class="cards-layout" markdown="1">
-<div class="rol-card" markdown="1">
-
-### Catalogo Messier
-
-Por Tomas Romero Aranguiz y Víctor Bórquez Ruiz
-
-[Enlace a visualización](https://puc-infovis.github.io/version-2023-1/salon_de_la_fama/Catalogo_Messier/)
-
-</div>
 
 <div class="rol-card" markdown="1">
 
@@ -28,6 +19,16 @@ Por Tomas Romero Aranguiz y Víctor Bórquez Ruiz
 Por Cristóbal Osvaldo Avendaño Zamorano
 
 [Enlace a visualización](https://puc-infovis.github.io/version-2023-2/salon_de_la_fama/wine/)
+
+</div>
+
+<div class="rol-card" markdown="1">
+
+### Brecha de género en STEM, en el mundo y el Chile
+
+Por María José Millán Arriagada  y Renate Teuber De La Sotta
+
+[Enlace a visualización](https://puc-infovis.github.io/version-2023-2/salon_de_la_fama/brecha_stem/)
 
 </div>
 

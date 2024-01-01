@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualizaciones</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.js"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap" rel="stylesheet">
+
+    <link rel="icon" type="image/png" href="assets/logo.png">
+</head>
+
+<body>
+    <div class="container">
+        <h1>BRECHA DE GÉNERO EN EL MUNDO, EN CHILE Y EN EL ÁREA STEM</h1>
+        <div id="visualizacion1">
+            <h2>Brecha de Género y porcentaje de mujeres en STEM en el mundo</h2>
+            <div id="descripcion1">
+                <p>La siguiente visualización muestra la brecha de género en términos generales en el mundo y también la
+                    brecha de género en STEM en el mundo.
+                    El círculo está ordenado según el ranking mundial de brecha de género, donde el país número 1 es el
+                    con menor brecha de género en el mundo y
+                    el último es lo contrario. Los datos fueron truncados hasta el país número 100 del ranking. Este
+                    ranking fue construido ordenando las puntuaciones
+                    de cada país. Estas puntuaciones corresponden a un número entre 0 y 1 que muestra cuán resuelta está
+                    la brecha de género, donde 1 corresponde
+                    a que no existe brecha de género de ningún tipo en ese país. Además, las barras muestran la brecha
+                    de género en STEM, específicamente muestran
+                    el porcentaje de mujeres que participan en áreas STEM por país.</p>
+            </div>
+            <div class="brecha-vis">
+                <div id="vis-2"></div>
+                <div id="vis-1"></div>
+                <div id="vis-3"></div>
+                <script src="vis1.js"></script>
+            </div>
+
+        </div>
+
+        <div id="visualizacion2">
+            <h2>STEM y matrículas en la educación superior en Chile </h2>
+            <div id="descripcion2">
+                <p>Esta visualización presenta la distribución por género en diferentes niveles
+                    educativos, centrándose en las áreas de Tecnología y Ciencias. Los gráficos de
+                    barras muestran el porcentaje de participación de hombres y mujeres en cada
+                    nivel. Al hacer clic en los botones "Ciencias" y "Tecnología", la visualización
+                    se actualiza para revelar la distribución específica por género en estas áreas.
+                    Las etiquetas junto a cada barra indican el porcentaje correspondiente,
+                    proporcionando una fácil interpretación de las diferencias de género en la
+                    elección de carreras.</p>
+
+
+                <button id="btnCiencias" class="boton">Ciencias</button>
+                <button id="btnTecnologia" class="boton">Tecnología</button>
+                <div id="vis-5"></div>
+                <div id="vis-6"></div>
+                <script src="vis2.js"></script>
+            </div>
+
+            <div id="visualizaicon3">
+                <h2>Investigadoras STEM en Chile</h2>
+                <div id="descripcion3">
+                    <p id="visibilizar">"Potenciando la visibilización de impactantes investigadoras chilenas"</p>
+                    <p>En esta visualización haremos un énfasis un poco más personal a las investigadoras de Chile. En
+                        el mapa de la izquierda, pasando el mouse
+                        sobre una región, se puede ver la cantidad de habitantes y el porcentaje de hombres y mujeres
+                        que viven en esta. Al hacer click en una región,
+                        en la visualización del centro podemos ver el porcentaje de investigadoras mujeres e
+                        investigadores hombres de la región seleccionada. Finalmente,
+                        al lado derecho podemos ver un poco más personalmente a una investigadora chilena de la región
+                        seleccionada, conociendo su área de investigación y algunos
+                        otros datos interesantes. Cabe destacar que los datos del mapa son del útlimo censo (2017)
+                        cuando aún no existía la Región del Ñuble, por eso no aparece.
+                    </p>
+                </div>
+                <div class="stemchile">
+                    <div id="vis-7"></div>
+                    <div id="vis-8"></div>
+                    <div id="vis-9"></div>
+                    <script src="vis3.js"></script>
+                </div>
+
+            </div>
+            
+        </div>
+</body>
+
+<footer>
+    <p id ="nombres">Hecho con amor 💌 por María José Millán y Renate Teuber</p>
+</footer>
+
+
+</html>

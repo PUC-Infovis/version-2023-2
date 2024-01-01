@@ -1,0 +1,1024 @@
+[
+    {
+        "pais": "Islandia",
+        "puntuacion": 0.912,
+        "ranking": 1,
+        "p_stem": 47.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Noruega",
+        "puntuacion": 0.879,
+        "ranking": 2,
+        "p_stem": 37.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Finlandia",
+        "puntuacion": 0.863,
+        "ranking": 3,
+        "p_stem": 32.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Nueva Zelanda",
+        "puntuacion": 0.856,
+        "ranking": 4,
+        "p_stem": 52.0,
+        "continente": "Oceania"
+    },
+    {
+        "pais": "Suecia",
+        "puntuacion": 0.815,
+        "ranking": 5,
+        "p_stem": 34.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Alemania",
+        "puntuacion": 0.815,
+        "ranking": 6,
+        "p_stem": 28.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Nicaragua",
+        "puntuacion": 0.811,
+        "ranking": 7,
+        "p_stem": 42.5,
+        "continente": "America"
+    },
+    {
+        "pais": "Namibia",
+        "puntuacion": 0.802,
+        "ranking": 8,
+        "p_stem": 38.7,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Lituania",
+        "puntuacion": 0.8,
+        "ranking": 9,
+        "p_stem": 51.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Belgica",
+        "puntuacion": 0.796,
+        "ranking": 10,
+        "p_stem": 33.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Irlanda",
+        "puntuacion": 0.795,
+        "ranking": 11,
+        "p_stem": 36.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Ruanda",
+        "puntuacion": 0.794,
+        "ranking": 12,
+        "p_stem": 35.4,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Letonia",
+        "puntuacion": 0.794,
+        "ranking": 13,
+        "p_stem": 23.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Costa Rica",
+        "puntuacion": 0.793,
+        "ranking": 14,
+        "p_stem": 44.3,
+        "continente": "America"
+    },
+    {
+        "pais": "Reino Unido",
+        "puntuacion": 0.792,
+        "ranking": 15,
+        "p_stem": 39.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Filipinas",
+        "puntuacion": 0.791,
+        "ranking": 16,
+        "p_stem": 49.5,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Albania",
+        "puntuacion": 0.791,
+        "ranking": 17,
+        "p_stem": 44.3,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Espana",
+        "puntuacion": 0.791,
+        "ranking": 18,
+        "p_stem": 40.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Moldovia",
+        "puntuacion": 0.788,
+        "ranking": 19,
+        "p_stem": 40.1,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Sudafrica",
+        "puntuacion": 0.787,
+        "ranking": 20,
+        "p_stem": 45.0,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Suiza",
+        "puntuacion": 0.783,
+        "ranking": 21,
+        "p_stem": 34.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Estonia",
+        "puntuacion": 0.782,
+        "ranking": 22,
+        "p_stem": 44.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Dinamarca",
+        "puntuacion": 0.78,
+        "ranking": 23,
+        "p_stem": 33.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Jamaica",
+        "puntuacion": 0.779,
+        "ranking": 24,
+        "p_stem": 0.0,
+        "continente": "America"
+    },
+    {
+        "pais": "Mozambique",
+        "puntuacion": 0.778,
+        "ranking": 25,
+        "p_stem": 28.9,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Australia",
+        "puntuacion": 0.778,
+        "ranking": 26,
+        "p_stem": 16.0,
+        "continente": "Oceania"
+    },
+    {
+        "pais": "Chile",
+        "puntuacion": 0.777,
+        "ranking": 27,
+        "p_stem": 33.1,
+        "continente": "America"
+    },
+    {
+        "pais": "Paises Bajos",
+        "puntuacion": 0.777,
+        "ranking": 28,
+        "p_stem": 25.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Eslovenia",
+        "puntuacion": 0.773,
+        "ranking": 29,
+        "p_stem": 37.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Canada",
+        "puntuacion": 0.77,
+        "ranking": 30,
+        "p_stem": 31.4,
+        "continente": "America"
+    },
+    {
+        "pais": "Barbados",
+        "puntuacion": 0.769,
+        "ranking": 31,
+        "p_stem": 40.5,
+        "continente": "America"
+    },
+    {
+        "pais": "Portugal",
+        "puntuacion": 0.765,
+        "ranking": 32,
+        "p_stem": 44.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Mexico",
+        "puntuacion": 0.765,
+        "ranking": 33,
+        "p_stem": 33.0,
+        "continente": "America"
+    },
+    {
+        "pais": "Peru",
+        "puntuacion": 0.764,
+        "ranking": 34,
+        "p_stem": 31.9,
+        "continente": "America"
+    },
+    {
+        "pais": "Burundi",
+        "puntuacion": 0.763,
+        "ranking": 35,
+        "p_stem": 14.5,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Argentina",
+        "puntuacion": 0.762,
+        "ranking": 36,
+        "p_stem": 52.6,
+        "continente": "America"
+    },
+    {
+        "pais": "Cabo Verde",
+        "puntuacion": 0.761,
+        "ranking": 37,
+        "p_stem": 39.8,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Serbia",
+        "puntuacion": 0.76,
+        "ranking": 38,
+        "p_stem": 48.4,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Liberia",
+        "puntuacion": 0.76,
+        "ranking": 39,
+        "p_stem": 0.0,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Francia",
+        "puntuacion": 0.756,
+        "ranking": 40,
+        "p_stem": 27.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Bielorrusia",
+        "puntuacion": 0.752,
+        "ranking": 41,
+        "p_stem": 40.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Colombia",
+        "puntuacion": 0.751,
+        "ranking": 42,
+        "p_stem": 38.4,
+        "continente": "America"
+    },
+    {
+        "pais": "Estados Unidos",
+        "puntuacion": 0.748,
+        "ranking": 43,
+        "p_stem": 24.0,
+        "continente": "America"
+    },
+    {
+        "pais": "Luxemburgo",
+        "puntuacion": 0.747,
+        "ranking": 44,
+        "p_stem": 28.9,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Zimbabue",
+        "puntuacion": 0.746,
+        "ranking": 45,
+        "p_stem": 28.8,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Esuatini",
+        "puntuacion": 0.745,
+        "ranking": 46,
+        "p_stem": 0.0,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Austria",
+        "puntuacion": 0.74,
+        "ranking": 47,
+        "p_stem": 29.5,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Tanzania",
+        "puntuacion": 0.74,
+        "ranking": 48,
+        "p_stem": 29.8,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Singapur",
+        "puntuacion": 0.739,
+        "ranking": 49,
+        "p_stem": 30.1,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Ecuador",
+        "puntuacion": 0.737,
+        "ranking": 50,
+        "p_stem": 41.1,
+        "continente": "America"
+    },
+    {
+        "pais": "Madagascar",
+        "puntuacion": 0.737,
+        "ranking": 51,
+        "p_stem": 31.0,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Surinam",
+        "puntuacion": 0.736,
+        "ranking": 52,
+        "p_stem": 0.0,
+        "continente": "America"
+    },
+    {
+        "pais": "Honduras",
+        "puntuacion": 0.735,
+        "ranking": 53,
+        "p_stem": 41.1,
+        "continente": "America"
+    },
+    {
+        "pais": "Laos",
+        "puntuacion": 0.733,
+        "ranking": 54,
+        "p_stem": 23.0,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Croacia",
+        "puntuacion": 0.73,
+        "ranking": 55,
+        "p_stem": 48.9,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Bolivia",
+        "puntuacion": 0.73,
+        "ranking": 56,
+        "p_stem": 62.7,
+        "continente": "America"
+    },
+    {
+        "pais": "Brasil",
+        "puntuacion": 0.726,
+        "ranking": 57,
+        "p_stem": 36.6,
+        "continente": "America"
+    },
+    {
+        "pais": "Panama",
+        "puntuacion": 0.724,
+        "ranking": 58,
+        "p_stem": 51.8,
+        "continente": "America"
+    },
+    {
+        "pais": "Bangladesh",
+        "puntuacion": 0.722,
+        "ranking": 59,
+        "p_stem": 14.0,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Polonia",
+        "puntuacion": 0.722,
+        "ranking": 60,
+        "p_stem": 37.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Armenia",
+        "puntuacion": 0.721,
+        "ranking": 61,
+        "p_stem": 52.1,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Kazajistan",
+        "puntuacion": 0.721,
+        "ranking": 62,
+        "p_stem": 53.3,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Eslovaquia",
+        "puntuacion": 0.72,
+        "ranking": 63,
+        "p_stem": 42.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Botsuana",
+        "puntuacion": 0.719,
+        "ranking": 64,
+        "p_stem": 29.6,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Bulgaria",
+        "puntuacion": 0.715,
+        "ranking": 65,
+        "p_stem": 47.9,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Ucrania",
+        "puntuacion": 0.714,
+        "ranking": 66,
+        "p_stem": 45.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Uruguay",
+        "puntuacion": 0.714,
+        "ranking": 67,
+        "p_stem": 50.0,
+        "continente": "America"
+    },
+    {
+        "pais": "El Salvador",
+        "puntuacion": 0.714,
+        "ranking": 68,
+        "p_stem": 40.3,
+        "continente": "America"
+    },
+    {
+        "pais": "Montenegro",
+        "puntuacion": 0.714,
+        "ranking": 69,
+        "p_stem": 47.6,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Malta",
+        "puntuacion": 0.713,
+        "ranking": 70,
+        "p_stem": 28.5,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Emiratos Arabes",
+        "puntuacion": 0.712,
+        "ranking": 71,
+        "p_stem": 0.0,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Vietnam",
+        "puntuacion": 0.711,
+        "ranking": 72,
+        "p_stem": 44.8,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Macedonia del Norte",
+        "puntuacion": 0.711,
+        "ranking": 73,
+        "p_stem": 50.8,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Tailandia",
+        "puntuacion": 0.711,
+        "ranking": 74,
+        "p_stem": 56.1,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Etiopia",
+        "puntuacion": 0.711,
+        "ranking": 75,
+        "p_stem": 13.3,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Georgia",
+        "puntuacion": 0.708,
+        "ranking": 76,
+        "p_stem": 52.3,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Kenia",
+        "puntuacion": 0.708,
+        "ranking": 77,
+        "p_stem": 25.7,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Uganda",
+        "puntuacion": 0.706,
+        "ranking": 78,
+        "p_stem": 29.8,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Italia",
+        "puntuacion": 0.705,
+        "ranking": 79,
+        "p_stem": 36.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Mongolia",
+        "puntuacion": 0.704,
+        "ranking": 80,
+        "p_stem": 49.1,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Republica Dominicana",
+        "puntuacion": 0.704,
+        "ranking": 81,
+        "p_stem": 40.0,
+        "continente": "America"
+    },
+    {
+        "pais": "Lesoto",
+        "puntuacion": 0.702,
+        "ranking": 82,
+        "p_stem": 36.4,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Israel",
+        "puntuacion": 0.701,
+        "ranking": 83,
+        "p_stem": 24.0,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Kiruguistan",
+        "puntuacion": 0.7,
+        "ranking": 84,
+        "p_stem": 0.0,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Zambia",
+        "puntuacion": 0.699,
+        "ranking": 85,
+        "p_stem": 30.7,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Bosnia y Herzegovina",
+        "puntuacion": 0.698,
+        "ranking": 86,
+        "p_stem": 47.1,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Indonesia",
+        "puntuacion": 0.697,
+        "ranking": 87,
+        "p_stem": 30.6,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Rumania",
+        "puntuacion": 0.697,
+        "ranking": 88,
+        "p_stem": 46.2,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Belice",
+        "puntuacion": 0.696,
+        "ranking": 89,
+        "p_stem": 41.8,
+        "continente": "America"
+    },
+    {
+        "pais": "Togo",
+        "puntuacion": 0.696,
+        "ranking": 90,
+        "p_stem": 10.0,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Paraguay",
+        "puntuacion": 0.695,
+        "ranking": 91,
+        "p_stem": 48.2,
+        "continente": "America"
+    },
+    {
+        "pais": "Camboya",
+        "puntuacion": 0.695,
+        "ranking": 92,
+        "p_stem": 23.7,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Grecia",
+        "puntuacion": 0.693,
+        "ranking": 93,
+        "p_stem": 38.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Camerun",
+        "puntuacion": 0.693,
+        "ranking": 94,
+        "p_stem": 21.8,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Timor-Leste",
+        "puntuacion": 0.693,
+        "ranking": 95,
+        "p_stem": 0.0,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Brunei Darussalam",
+        "puntuacion": 0.693,
+        "ranking": 96,
+        "p_stem": 0.0,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Azerbaiyan",
+        "puntuacion": 0.692,
+        "ranking": 97,
+        "p_stem": 57.1,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Mauricio",
+        "puntuacion": 0.689,
+        "ranking": 98,
+        "p_stem": 0.0,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Hungria",
+        "puntuacion": 0.689,
+        "ranking": 99,
+        "p_stem": 31.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Ghana",
+        "puntuacion": 0.688,
+        "ranking": 100,
+        "p_stem": 18.3,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Republica Checa",
+        "puntuacion": 0.685,
+        "ranking": 101,
+        "p_stem": 27.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Malasia",
+        "puntuacion": 0.682,
+        "ranking": 102,
+        "p_stem": 48.6,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Butan",
+        "puntuacion": 0.682,
+        "ranking": 103,
+        "p_stem": 0.0,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Senegal",
+        "puntuacion": 0.68,
+        "ranking": 104,
+        "p_stem": 29.3,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Corea",
+        "puntuacion": 0.68,
+        "ranking": 105,
+        "p_stem": 20.0,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Chipre",
+        "puntuacion": 0.678,
+        "ranking": 106,
+        "p_stem": 37.9,
+        "continente": "Europa"
+    },
+    {
+        "pais": "China",
+        "puntuacion": 0.678,
+        "ranking": 107,
+        "p_stem": 39.2,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Vanautu",
+        "puntuacion": 0.678,
+        "ranking": 108,
+        "p_stem": 0.0,
+        "continente": "Oceania"
+    },
+    {
+        "pais": "Malaui",
+        "puntuacion": 0.676,
+        "ranking": 109,
+        "p_stem": 19.5,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Burkina Faso",
+        "puntuacion": 0.676,
+        "ranking": 110,
+        "p_stem": 15.2,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Tayikistan",
+        "puntuacion": 0.672,
+        "ranking": 111,
+        "p_stem": 36.9,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Sierra Leona",
+        "puntuacion": 0.667,
+        "ranking": 112,
+        "p_stem": 0.0,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Barein",
+        "puntuacion": 0.666,
+        "ranking": 113,
+        "p_stem": 0.0,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Comoras",
+        "puntuacion": 0.664,
+        "ranking": 114,
+        "p_stem": 0.0,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Sri Lanka",
+        "puntuacion": 0.663,
+        "ranking": 115,
+        "p_stem": 45.7,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Nepal",
+        "puntuacion": 0.659,
+        "ranking": 116,
+        "p_stem": 7.8,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Guatemala",
+        "puntuacion": 0.659,
+        "ranking": 117,
+        "p_stem": 53.2,
+        "continente": "America"
+    },
+    {
+        "pais": "Angola",
+        "puntuacion": 0.656,
+        "ranking": 118,
+        "p_stem": 27.1,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Gambia",
+        "puntuacion": 0.651,
+        "ranking": 119,
+        "p_stem": 20.0,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Kuwait",
+        "puntuacion": 0.651,
+        "ranking": 120,
+        "p_stem": 51.4,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Fiji",
+        "puntuacion": 0.65,
+        "ranking": 121,
+        "p_stem": 0.0,
+        "continente": "Oceania"
+    },
+    {
+        "pais": "Costa de Marfil",
+        "puntuacion": 0.65,
+        "ranking": 122,
+        "p_stem": 16.5,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Myanmar",
+        "puntuacion": 0.65,
+        "ranking": 123,
+        "p_stem": 85.5,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Maldivas",
+        "puntuacion": 0.649,
+        "ranking": 124,
+        "p_stem": 0.0,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Japon",
+        "puntuacion": 0.647,
+        "ranking": 125,
+        "p_stem": 16.0,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Jordania",
+        "puntuacion": 0.646,
+        "ranking": 126,
+        "p_stem": 20.8,
+        "continente": "Asia"
+    },
+    {
+        "pais": "India",
+        "puntuacion": 0.643,
+        "ranking": 127,
+        "p_stem": 13.9,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Tunez",
+        "puntuacion": 0.642,
+        "ranking": 128,
+        "p_stem": 55.4,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Turquia",
+        "puntuacion": 0.638,
+        "ranking": 129,
+        "p_stem": 37.0,
+        "continente": "Europa"
+    },
+    {
+        "pais": "Nigeria",
+        "puntuacion": 0.637,
+        "ranking": 130,
+        "p_stem": 23.3,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Arabia Saudita",
+        "puntuacion": 0.637,
+        "ranking": 131,
+        "p_stem": 23.2,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Libano",
+        "puntuacion": 0.628,
+        "ranking": 132,
+        "p_stem": 0.0,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Qatar",
+        "puntuacion": 0.627,
+        "ranking": 133,
+        "p_stem": 31.4,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Egipto",
+        "puntuacion": 0.626,
+        "ranking": 134,
+        "p_stem": 44.1,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Niger",
+        "puntuacion": 0.622,
+        "ranking": 135,
+        "p_stem": 0.0,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Marruecos",
+        "puntuacion": 0.621,
+        "ranking": 136,
+        "p_stem": 33.8,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Guinea",
+        "puntuacion": 0.617,
+        "ranking": 137,
+        "p_stem": 9.8,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Benin",
+        "puntuacion": 0.616,
+        "ranking": 138,
+        "p_stem": 0.0,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Oman",
+        "puntuacion": 0.614,
+        "ranking": 139,
+        "p_stem": 27.8,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Republica democratica del congo",
+        "puntuacion": 0.612,
+        "ranking": 140,
+        "p_stem": 10.3,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Mali",
+        "puntuacion": 0.605,
+        "ranking": 141,
+        "p_stem": 10.4,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Pakistan",
+        "puntuacion": 0.575,
+        "ranking": 142,
+        "p_stem": 33.9,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Iran",
+        "puntuacion": 0.575,
+        "ranking": 143,
+        "p_stem": 27.7,
+        "continente": "Asia"
+    },
+    {
+        "pais": "Argelia",
+        "puntuacion": 0.573,
+        "ranking": 144,
+        "p_stem": 0.0,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Chad",
+        "puntuacion": 0.57,
+        "ranking": 145,
+        "p_stem": 4.8,
+        "continente": "Africa"
+    },
+    {
+        "pais": "Afganistan",
+        "puntuacion": 0.405,
+        "ranking": 146,
+        "p_stem": 0.0,
+        "continente": "Asia"
+    }
+]

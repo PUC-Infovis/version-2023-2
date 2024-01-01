@@ -1,0 +1,93 @@
+[
+{
+    "region":"ARICA Y PARINACOTA",
+    "ID":1.0,
+    "nombre":"Gloria Calaf",
+    "area":"Ha dedicado gran parte de su vida a la investigación\n para curar el cáncer; desde su oficina en el Instituto \n de Alta Investigación (IAI) de la Universidad de Tarapacá Arica.\n Uno de sus proyectos es la charla 1000 Científicos 1000 Aulas\n donde planea explicarle a los estudiantes la relevancia\n de la alimentación para prevenir y combatir esta enfermedad."
+},
+
+{
+    "region":"TARAPACÁ",
+    "ID":2.0,
+    "nombre":"Bianca Glass Sadia",
+    "area":"Directora del departamento de física. Directora del \n centro sismológico, de la universidad de Tarapacá desde 1999.\n Posee líneas de investigación definidas: Materia Condensada,\n Sistemas Complejos, Física Aplicada, Gravitación y Cosmología."
+},
+{
+    "region":"ANTOFAGASTA",
+    "ID":3.0,
+    "nombre":"Nadac Reales del Canto",
+    "area":"Solucionar el problema de las miles de toneladas de \ndeshechos metálicos que genera la industria minera. La solución la\n encontró en ciertos microrganismos extremófilos que viven\n en el Salar de Atacama, los cuales a través de un proceso que \n ella misma desarrolló y que llamó Spiromet, son capaces de\ndescomponer ese material y transformarlo en una solución\ngelatinosa con la cual es posible generar otros productos \n metálicos. Logró que bacterias Leptoespirillum \n desintegraran un clavo en solo tres días."
+},
+{
+    "region":"ATACAMA",
+    "ID":4.0,
+    "nombre":"Erica Castro Inostroza",
+    "area":" Desarrollo sostenible empleando bacterioterapia para \n una economía verde. Búsqueda de bacterias benéficas y\nmanejo de disbiosis. Tópicos de salud sexual y reproductiva,\ncon énfasis en infecciones transmitidas sexualmente."
+},
+{
+    "region":"COQUIMBO",
+    "ID":5.0,
+    "nombre":"Paulina Troncoso Iribarren",
+    "area":"Investigación astrofísica, galaxias extremadamente lejanas \n que datan desde cuando el universo tenía el 15% de su edad \n actual. También se enfoca en desarrollar metodologías y técnicas \n para enseñar procesos atrofísicos a personas con discapacidad \n visual."
+},
+{
+    "region":"VALPARAÍSO",
+    "ID":6.0,
+    "nombre":"Andrea Vera Gajardo",
+    "area":"Áreas interdisciplinarias que transitan entre los estudios de \n género, epistemología feminista, estudios sociales de la \n ciencia y tecnología y las matemáticas."
+},
+{
+    "region":"METROPOLITANA",
+    "ID":7.0,
+    "nombre":"Loreto Valenzuela",
+    "area":"Decana de la carrera de Ingeniería de la Universidad Católica \n de Chile (UC). Ingeniera Civil Industrial de la UC, Doctora en\n Ingeniería Biomédica de la Universidad de Rutgers,\nEstados Unidos. En 2019 fue reconocida como una de las\n100 Mujeres Líderes de Chile. Soportes poliméricos (scaffolds)\npara regeneración muscular. Rotación controlada\nde nanocilindros magnéticos dentro de células.\n Recubrimientos y películas comestibles para extensión de\n vida útil de alimentos."
+},
+{
+    "region":"LIBERTADOR BERNARDO O’HIGGINS",
+    "ID":8.0,
+    "nombre":"Verónica Guajardo Fernández",
+    "area":"Servicio de identificación varietal para vislumbrar y limitar \n las problemáticas generadas por la identificación errónea de \n variedades y portainjertos de frutales. Tiene un proyecto\nFIA enfocado en reducir los tiempos y costos en los análisis\nde identificación varietal."
+},
+{
+    "region":"MAULE",
+    "ID":9.0,
+    "nombre":"Jessica Zúñiga Hernández",
+    "area":"Terapia Experimental frente a Enfermedades Hepáticas. \nEn particular estudia los fenómenos de \nisquemia-reperfusión y la cronicidad de los \ntrastornos hepáticos, con énfasis en el potencial \n hepatoprotector de diferentes derivados lipídicos."
+},
+{
+    "region":"BIOBÍO",
+    "ID":10.0,
+    "nombre":"Alejandra Stehr",
+    "area":"Disponibilidad de recursos hídricos ante escenarios de cambio \n climático y uso del suelo, con énfasis en el estudio del régimen \n hidrológico y balance hídrico de las cuencas por medio\n de la utilización de distintas metodologías."
+},
+{
+    "region":"ARAUCANÍA",
+    "ID":11.0,
+    "nombre":"Maisa Rojas",
+    "area":" Ministra del Medio Ambiente de Chile desde 2022. Experta \n internacional en cambio climático. Fue una de las autoras\n del informe de la ONU que advirtió los eventos de la \n sequía en el centro del país. Sus redes políticas \nson transversales. Lideró el comité científico en la COP25."
+},
+{
+    "region":"LOS RÍOS",
+    "ID":12.0,
+    "nombre":"Andrea Ávila-Valdés",
+    "area":"Fisiología y Biología Vegetal, Raíces y Tubérculos,\nTolerancia al estrés abiótico, Cambio Climático, Agronomía,\n Suelo-Rizósfera, Cultivo in Vitro."
+},
+{
+    "region":"LOS LAGOS",
+    "ID":13.0,
+    "nombre":"Benita Hortensia Quilodrán Toloza",
+    "area":"Biorremediación y Bioconversión de contaminantes ambientales. \nObtención e identificación de metabolitos primarios y secundarios.\n Proyectos Adjudicados: Proyecto de Investigación, Uso de\nglicerol residual como fuente de carbono alterna para la\nproducción a escala de pruebas de ácidos grasos omega \n3 y 6 por cepas chilenas de Thraustochytridos, Proyecto\nDIULA 2013-2015. Producción de Biogás a través de la\nco-digestión anaeróbica de residuos orgánicos generados\nen la Isla Grande de Chiloé. \nProyecto FIC, 2014."
+},
+{
+    "region":"AYSÉN",
+    "ID":14.0,
+    "nombre":"Valentina Álvarez",
+    "area":"La Dra. en Ecología y Biodiversidad Valentina Álvarez, \nquien gracias a un proyecto semilla, financiado por el programa de\n fortalecimiento del Centro de Investigación en Ecosistemas \nde la Patagonia (CIEP), financiado por ANID, enfocó sus \n esfuerzos en comprender los vínculos entre el rubro apícola,\n el clima y la influencia humana, con lo que además \nes posible aportar información relevante para la comercialización\n de las mieles que se producen en la Región de Aysén."
+},
+{
+    "region":"MAGALLANES",
+    "ID":15.0,
+    "nombre":"Judith Pardo",
+    "area":"Bióloga y paleontóloga. Investiadora del proyecto que descubrió \n más de 50 fósiles de ictiosaurios, pertenecientes al\n período Cretácico, en el glaciar Tyndall de Torres \ndel Paine, la mayoría completos y que se encuentran en \n un gran estado de preservación."
+}
+]
