@@ -108,10 +108,11 @@ function StemChile() {
             .attr("fill", color);
 
         // Añadir etiquetas encima de los hexágonos
-        SVG5.selectAll("text")
+        SVG5.selectAll("text.Legend")
             .data(niveles)
             .enter()
             .append("text")
+            .attr("class", "Legend")
             .attr("x", columnaX)
             .attr("y", (d, i) => columnaY + i * 2 * radio * 1.3 + 20)
             .attr("dy", "-1em")
