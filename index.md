@@ -20,5 +20,6 @@ Todo material del curso (PDF de clases, códigos y ayudantías) estará disponib
 ### Actualizaciones del sitio
 
 
+- **(01/01/2024)** Publicación Salón de la Fama
 - **(16/07/2023)** Publicación primera versión del programa
 - **(13/07/2023)** Creación del sitio.

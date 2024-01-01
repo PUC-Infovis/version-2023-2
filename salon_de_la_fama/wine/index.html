@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.png">
+    <script src="https://d3js.org/d3.v7.js"></script>
+    <title>Wine Visualization</title>
+</head>
+
+<body>
+  <div class="container">
+
+    <div class="visualization">
+      <h2>Análisis de Calidad del Vino: Alcohol, pH y Azúcar Residual</h2>
+      <p>Esta serie de <i>box plots</i> desglosa la relación entre la calidad percibida del vino tinto y sus características químicas clave. Este fue generado a partir de un set de datos datos disponibles en el siguiente <a href="https://archive.ics.uci.edu/dataset/186/wine+quality"> enlace</a> y que tienen el objetivo de ser usados para entrenamiendo de modelos de aprenidzaje de máqiuna.</p>
+      <p>Los usuarios pueden comparar visualmente cómo el contenido de alcohol, el equilibrio del pH y el nivel de azúcar residual varían entre vinos clasificados de pobre a excelente. Funciones interactivas como el zoom permiten a los usuarios inspeccionar los datos en mayor detalle, mientras que la selección de una categoría de calidad resalta esos vinos en ambas visualizaciones, facilitando un análisis comparativo más profundo. Presione uno de los <i>box plots</i> para resaltar su categoría</p>
+      <div id="visualization1"></div>
+    </div>
+
+    <div class="visualization">
+      <h2>Exploración Detallada de Vinos: Alcohol y Características de pH</h2>
+      <p>Este bubble plot interactivo presenta cada vino como un punto único, con el eje Y reflejando el porcentaje de alcohol, el color indicando el balance de pH (donde el rojo representa pH 2.74 y el azul pH 4.01), y el tamaño del punto denotando la cantidad de azúcar residual, donde el más pequeño representa 0.9 g/dm3 y el más grande representa 15.5 g/dm3. Utilice la herramienta de selección para resaltar un rango de vinos y visualizar los promedios de estas características químicas dentro de su selección, proporcionando un análisis estadístico instantáneo de los vinos que interesan.</p>
+      <div id="visualization2"></div>
+    </div>
+  
+    <script type="module" src="main.js"></script>
+  </div>
+</body>
