@@ -24,7 +24,7 @@ Por Cristóbal Osvaldo Avendaño Zamorano
 
 <div class="rol-card" markdown="1">
 
-### A Simple and Clean Guide to Kingdom Hearts
+### _A Simple and Clean Guide to Kingdom Hearts_
 
 Por Tomás Emilio Riquelme Cepeda
 
@@ -39,6 +39,17 @@ Por Tomás Emilio Riquelme Cepeda
 Por María José Millán Arriagada  y Renate Teuber De La Sotta
 
 [Enlace a visualización](https://puc-infovis.github.io/version-2023-2/salon_de_la_fama/brecha_stem/)
+
+</div>
+
+
+<div class="rol-card" markdown="1">
+
+### Discografía de Taylor Swift
+
+Por Paula Sandoval Muñoz y Rocío Moya Valenzuela
+
+[Enlace a visualización](https://puc-infovis.github.io/version-2023-2/salon_de_la_fama/taylor_swift/)
 
 </div>
 

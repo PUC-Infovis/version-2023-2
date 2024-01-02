@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style_2.css">
+    <script src="https://d3js.org/d3.v7.js"></script>
+    <script src="main.js" charset='utf-8' type="module"></script>
+    <title>Taylor Swift Music</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Discografía de Taylor Swift</h1>
+        <p>
+            Spotify ocupa ciertos terminos para describir canciones que se traducen a valores numéricos para
+            calificar distintos aspectos de una canción. Es importante conocer la definición de estos terminos para
+            comprender las visualizaciones.
+            Estos son:</p>
+                <li><i>Danceability</i> : Describe qué tan adecuada es para bailar, tomando valor 0 aquella que es nada bailables y tomando valor 1, aquellas que es
+                    muy bailable.</li>
+                <li><i>Valence</i> : Describe qué tan positivo es la canción o el album. Mientras más cercano al 0 sea el valor, más negativa suena en promedio, es decir, más 
+                    triste o enojado; en cambio, si el valor el cercano a 1, la música es percibida como más alegre.</li>    
+                <li><i>Energy</i> : Describe qué tan enérgico, intenso y dinámico se siente el sonido en promedio. Toma valor 0 aquel muy tranquilo, poco enérgico, y toma valor 1
+                    aquel muy ruidoso y activo.</li>
+                <li><i>Liveness</i> : Describe qué tan probable es que la canción se haya grabado en vivo. Si el valor es cercano a 0, significa que se detecta poca presencia
+                    de público; mientras que un valor cercano a 1, significa una alta probabilidad de que se haya grabado en vivo.</li>
+                <li><i>Popularity</i> : Representa el porcentaje de popularidad, siendo 0, que es nada popular, y 1, significa que es muy popular</li>
+                <li><i>Loudness</i> : Describe la sonoridad, qué tan alto es su volumen. Se mide en decibeles, pero para efectos de la visualización, mientras mayor es el volumen
+                    de la canción, el valor del atributo estará más cercano a 1; y mientras más bajo sea su volumen, su valor será cercano a 0.</li>
+                <li><i>Acousticness</i> : Describe qué tan acústico es el album, tomando valor 0 si el album es poco acústico, y valor 1 si es en su mayoría acústico.</li>
+        </p>
+        <!--<h2>Visualización 1 - Mapa de puntos</h2>-->
+        <h2>Distribución de Canciones de Taylor Swift según danceability y valence</h2>
+        <p>
+            En este mapa puedes seleccionar puntos usando <i>brush</i> y debajo de la visualización se desplegará 
+            una tabla con la información de cada canción escogida, en orden cresciente según los valores de valence. En tal tabla es posible usar el <i>tooltip</i>   
+            sobre los rectangulos de colores para conocer el nombre completo de la canción. 
+            También esta la opción de filtrar los datos haciendo 
+            <i>click</i> en los cuadrados de colores de la leyenda según los discos que quieras observar. 
+            Para mostrar todos los datos nuevamente, presiona las teclas "T" y "S" al mismo tiempo.
+        </p>
+        <div id="vis-puntos">
+        </div>
+        <div id="log">
+        </div>
+        <div id="tabla">
+        </div>
+        <!--<h2>Visualización 2 - Mapa de calor</h2>-->
+        <h2>Heatmap de Atributos: Análisis por Álbumes y Características</h2>
+        <p>
+            Al ser un mapa de calor, los valores son representados por una escala de color. En este caso, mientras más cercano sea el valor del atributo al 0, más blanquecino
+            será el cuadrado que lo representa. Si el valor está cercano al 0.5, su color será HotPink; y si el valor es cercano al 1, tendrá un color Azul.
+        </p>
+        <p>
+            Se puede interactuar con el mapa de calor haciendo <i>hover</i> a algún cuadrado y abajo aparecerá un <i>tooltip</i> con el nombre completo del album y el valor
+            numérico que representa el color. Además, se puede hacer click sobre alguno de los atributos de la izquierda y se podrá visualizar el cambio del atributo a través
+            de toda la discografía de Taylor Swift en el gráfico de multilínea.
+        </p>
+        <div class="espacio">
+        </div>
+        <div class="vis-heatmap">
+        </div>
+
+        <!--<h2>Visualización 3 - Multilinea</h2>-->
+        <h2>Evolución de Atributos en Canciones de Taylor Swift</h2>
+        <p>
+            Se puede interactuar con la visualización haciendo click sobre una de las líneas, lo que la mostrará individualmente. Para volver al gráfico multilineas 
+            solo se debe hacer click sobre el nombre del atributo seleccionado que aparecerá bajo el gráfico.
+        </p>
+        <div class="vis-multilinea">
+        </div>
+
+    </div>
+    </div>
+    </div>
+    <script src="main.js" charset='utf-8'></script>
+</body>
+
+</html>

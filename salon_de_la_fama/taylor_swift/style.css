@@ -1,0 +1,76 @@
+body {
+    margin: 0 auto;
+    /* Puedes cambiar el color de fondo (background-color) si lo deseas */
+    background-color: rgb(15, 15, 15);
+    color: whitesmoke;
+    max-width: 80%;
+    min-width: 500px;
+    text-align: center;
+    
+    
+    background-image: url('mirrorball.png');
+    background-size: 200px; 
+    background-repeat: no-repeat; 
+    background-position: top right;
+}
+
+a{
+    color: hotpink;
+}
+
+p{
+    text-align: justify;
+}
+
+.case h2 {
+    /* Puedes cambiar el color de fondo (background-color) si lo deseas */
+    background: linear-gradient(to right,#b100e8, #3f37c9,#ff87ab);
+    padding: 10px;
+    margin: 10px;
+}
+
+h1 {
+    background: linear-gradient(to right, blue, violet, pink);
+        -webkit-background-clip: text;color: transparent;
+}
+
+.response {
+    text-align: start;
+    border: solid gray 2px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.response h5 {
+    margin: 0px;
+    color: rgb(57, 57, 57);
+}
+
+.response h4 {
+    margin-bottom: 0px;
+}
+
+.img {
+    max-width: 800px;
+    display: inline-flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+.hint{
+    opacity: 0.7;
+    color: rgb(200, 42, 42);
+    border: 1px solid;
+    padding: 5px;
+    font-weight: bolder;
+}
+
+.album{
+    flex-wrap: wrap;
+}
+
