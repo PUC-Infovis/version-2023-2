@@ -1,0 +1,124 @@
+body {
+    margin: 0 auto;
+    /* Puedes cambiar el color de fondo (background-color) si lo deseas */
+    /* background-color: rgb(15, 15, 15); */
+    /*background-image: url("https://ichef.bbci.co.uk/images/ic/480x270/p0f3k3nz.jpg");*/
+    background-image: url('https://t4.ftcdn.net/jpg/01/36/56/49/360_F_136564967_2F3S1E04Wb4durBhjwyDaLefdeo6udnn.jpg');
+    /*background-repeat: repeat;*/
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed; 
+    /* background-color: rgb(15, 15, 15); */
+    background-color: #fffff3;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    max-width: 1300px;
+    min-width: 500px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h5 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+svg {
+    border: solid 4px white;
+    border-radius: 8px;
+    background-color: rgb(2, 18, 24);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.tooltip {
+    position: absolute;
+    background-color: white;
+    color:rgb(15, 15, 15);
+    padding: 5px;
+    border: 1px solid #ddd;
+    opacity: 0;
+    pointer-events: none;
+    border-radius: 8px;
+  }
+
+button {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    /* font-size: 20px; */
+    /* margin-top: 10px; */
+    /* margin-bottom: 10px; */
+    cursor: pointer;
+}
+
+.button-gold {
+    background-color: rgb(255, 215, 0);
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    /* font-size: 20px; */
+    /* margin-top: 10px; */
+    /* margin-bottom: 10px; */
+    cursor: pointer;
+}
+
+.button-gold:hover {
+    background-color: rgb(255, 255, 0);
+}
+
+.button-white {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    /* font-size: 20px; */
+    /* margin-top: 10px; */
+    /* margin-bottom: 10px; */
+    cursor: pointer;
+}
+
+.button-white:hover {
+    background-color: rgb(255, 255, 255);
+}
+
+button:hover {
+    background-color: rgb(15, 15, 15);
+}
+
+select {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    /* font-size: 20px; */
+    /* margin-top: 10px; */
+    /* margin-bottom: 10px; */
+    cursor: pointer;
+}
+
+select:hover {
+    background-color: rgb(15, 15, 15);
+}
+
+
+

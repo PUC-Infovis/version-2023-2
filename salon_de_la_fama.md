@@ -44,6 +44,17 @@ Por María José Millán Arriagada  y Renate Teuber De La Sotta
 
 <div class="rol-card" markdown="1">
 
+### NBA _Stats_
+
+Por **Pochinki-team** (Tomas Oyaneder Rivera y Adolfo Parra Contreras)
+
+[Enlace a visualización](https://puc-infovis.github.io/version-2023-2/salon_de_la_fama/nba_stats/)
+
+</div>
+
+
+<div class="rol-card" markdown="1">
+
 ### Netflix x TOP1000 IMBD
 
 Por **Los Trolos** (Tomás Contreras y Cristian Carrasco)

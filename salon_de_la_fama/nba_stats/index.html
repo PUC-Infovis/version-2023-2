@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.js"></script>
+    <title>PROYECTORMENTOR</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>🏀 NBA stats 🏀</h1>
+
+        <h2>Mapa con los equipos de la NBA</h2>
+        <h4>En este mapa, se pueden visualizar todos los equipos de la NBA con la localización de sus estadios. 
+            Al hacer zoom, se puede navegar por el mapa con mayor precisión y detalle. También, se puede seleccionar los equipos 
+            que uno quiera revisar en su palmarés en el gráfico de barras.
+        </h4>
+        <div id="vis-1">
+            <div class="tooltip" id="tooltip"></div>
+            <div>
+                <h3>Seleccionar conferencia</h3>
+                <button id="Eastern">Conferencia Este</button>
+                <button id="Western">Conferencia Oeste</button>
+                <button id="reset">Reset</button>
+            </div>
+
+        <div>
+            <h3>Seleccione equipos para ver su palmarés</h3>
+        </div>
+
+        </div>
+
+        <h2>Gráfico de barras con estadisticas de los equipos</h2>
+        <h4>En este gráfico, se puede apreciar las victorias y derrotas de cada equipo a lo largo de las 
+            temporadas, específicamente en cada conferencia. También, se pueden observar los palmarés de todos los equipos a lo largo de la historia de la NBA.
+        </h4>
+        <div id="vis-2">
+            <h4>Seleccionar conferencia y temporada</h4>
+            <div>
+                <select id="conferencia">
+                    <option value="Eastern">Conferencia Este</option>
+                    <option value="Western">Conferencia Oeste</option>
+                </select>
+                <select id="season">
+                    <option value="2023-24">2023-24</option>
+                    <option value="2022-23">2022-23</option>
+                    <option value="2021-22">2021-22</option>
+                    <option value="2020-21">2020-21</option>
+                    <option value="2019-20">2019-20</option>
+                    <option value="2018-19">2018-19</option>
+                    <option value="2017-18">2017-18</option>
+                    <option value="2016-17">2016-17</option>
+                    <option value="2015-16">2015-16</option>
+                    <option value="2014-15">2014-15</option>
+                    <option value="2013-14">2013-14</option>
+                    <option value="2012-13">2012-13</option>
+                    <option value="2011-12">2011-12</option>
+                    <option value="2010-11">2010-11</option>
+                    <option value="2009-10">2009-10</option>
+                    <option value="2008-09">2008-09</option>
+                    <option value="2007-08">2007-08</option>
+                    <option value="2006-07">2006-07</option>
+                </select>
+            </div>
+
+            <div class="tooltip" id="tooltip2"></div>
+        
+            <h4>O seleccionar por palmarés</h4>
+            <div>
+                <button id="palmares">Palmarés</button>
+            </div>
+        </div>
+            
+
+        <h2>Gráfico burbujas de jugadores</h2>
+        <h4>Esta data abarca desde la temporada 2006-07 hasta la actualidad. Las burbujas más grandes representan que el jugador destaca más en esa área que los demás, 
+            y los jugadores con un anillo dorado alrededor de su burbuja son aquellos que han ganado un MVP desde el 2006, los cuales también se pueden filtrar para ser 
+            comparados con los demás MVPs. Además, es posible excluir a los MVPs de la visualización. Se pueden agarrar las burbujas y arrastrarlas para realizar comparaciones 
+            entre jugadores y tamaños de burbuja.
+        </h4>
+        <div id="vis-3">
+            <div>
+                <h5>Filtrar por categoria</h5>
+                <button id="MVP">Ganó MVP</button>
+                <button id="no-MVP">No ganó MVP</button>
+                <button id="ALL">Todos los jugadores</button>
+            </div>
+            <div>
+                <h5>Mostrar por:</h5>
+                <select id="order-by">
+                    <option value="PTS" selected>Promedio de puntos por partido</option>
+                    <option value="TRI">Porcentaje de conversión triples</option>
+                    <option value="FG">Porcentaje de conversión de tiros de campo</option>
+                    <option value="FT">Porcentaje de conversión de tiros libres</option>
+                </select>
+            </div>
+            <h4>Al hacer clic en un jugador, se pueden visualizar las estadísticas con más detalle y obtener información adicional, como su nombre.</h4>
+            <div class="tooltip" id="tooltip3"></div>
+
+            <!--<img src="https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png" style="opacity:0.08">-->
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+
+</html>

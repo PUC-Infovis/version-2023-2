@@ -1,0 +1,31 @@
+Equipo;Campeonatos;Subcampeonatos;Títulos;Estadio;Ciudad;id;Image;Abrev;Year
+Hawks;1;3;1958;State Farm Arena;Atlanta;1610612737;https://cdn.nba.com/logos/nba/1610612737/global/D/logo.svg;ATL;1949
+Celtics;17;5;"1957, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1968, 1969, 1974, 1976, 1981, 1984, 1986, 2008";TD Garden;Boston;1610612738;https://cdn.nba.com/logos/nba/1610612738/global/D/logo.svg;BOS;1946
+Nets;0;2;;Barclays Center;Brooklyn;1610612751;https://cdn.nba.com/logos/nba/1610612751/global/D/logo.svg;BKN;1976
+Hornets;0;0;;Spectrum Center;Charlotte;1610612766;https://cdn.nba.com/logos/nba/1610612766/global/D/logo.svg;CHA;1988
+Bulls;6;0;"1991, 1992, 1993, 1996, 1997, 1998";United Center;Chicago;1610612741;https://cdn.nba.com/logos/nba/1610612741/global/D/logo.svg;CHI;1966
+Cavaliers;1;4;2016;Rocket Mortgage FieldHouse;Cleveland;1610612739;https://cdn.nba.com/logos/nba/1610612739/global/D/logo.svg;CLE;1970
+Mavericks;1;1;2011;American Airlines Center;Dallas;1610612742;https://cdn.nba.com/logos/nba/1610612742/global/D/logo.svg;DAL;1980
+Nuggets;1;0;2023;Ball Arena;Denver;1610612743;https://cdn.nba.com/logos/nba/1610612743/global/D/logo.svg;DEN;1976
+Pistons;3;4;"1989, 1990, 2004";Little Caesars Arena;Detroit;1610612765;https://cdn.nba.com/logos/nba/1610612765/global/D/logo.svg;DET;1948
+Warriors;7;5;"1947, 1956, 1975, 2015, 2017, 2018, 2022";Chase Center;San Francisco;1610612744;https://cdn.nba.com/logos/nba/1610612744/global/D/logo.svg;GSW;1946
+Rockets;2;2;"1994, 1995";Toyota Center;Houston;1610612745;https://cdn.nba.com/logos/nba/1610612745/global/D/logo.svg;HOU;1967
+Pacers;0;1;;Gainbridge Fieldhouse;Indianapolis;1610612754;https://cdn.nba.com/logos/nba/1610612754/global/D/logo.svg;IND;1976
+Clippers;0;0;;Crypto.com Arena;Los Angeles;1610612746;https://cdn.nba.com/logos/nba/1610612746/global/D/logo.svg;LAC;1970
+Lakers;17;15;"1949, 1950, 1952, 1953, 1954, 1972, 1980, 1982, 1985, 1987, 1988, 2000, 2001, 2002, 2009, 2010, 2020";Staples Center;Los Angeles;1610612747;https://cdn.nba.com/logos/nba/1610612747/global/D/logo.svg;LAL;1948
+Grizzlies;0;0;;FedExForum;Memphis;1610612763;https://cdn.nba.com/logos/nba/1610612763/global/D/logo.svg;MEM;1995
+Heat;3;4;"2006, 2012, 2013";AmericanAirlines Arena;Miami;1610612748;https://cdn.nba.com/logos/nba/1610612748/global/D/logo.svg;MIA;1988
+Bucks;2;1;"1971, 2021";Fiserv Forum;Milwaukee;1610612749;https://cdn.nba.com/logos/nba/1610612749/global/D/logo.svg;MIL;1968
+Timberwolves;0;0;;Target Center;Minneapolis;1610612750;https://cdn.nba.com/logos/nba/1610612750/global/D/logo.svg;MIN;1989
+Pelicans;0;0;;Smoothie King Center;New Orleans;1610612740;https://cdn.nba.com/logos/nba/1610612740/global/D/logo.svg;NOP;2002
+Knicks;2;6;"1970, 1973";Madison Square Garden;New York;1610612752;https://cdn.nba.com/logos/nba/1610612752/global/D/logo.svg;NYK;1946
+Thunder;1;3;1979;Paycom Center;Oklahoma City;1610612760;https://cdn.nba.com/logos/nba/1610612760/global/D/logo.svg;OKC;1967
+Magic;0;2;;Amway Center;Orlando;1610612753;https://cdn.nba.com/logos/nba/1610612753/global/D/logo.svg;ORL;1989
+76ers;3;6;"1955, 1967, 1983";Wells Fargo Center;Philadelphia;1610612755;https://cdn.nba.com/logos/nba/1610612755/global/D/logo.svg;PHI;1949
+Suns;0;3;;Footprint Center;Phoenix;1610612756;https://cdn.nba.com/logos/nba/1610612756/global/D/logo.svg;PHX;1968
+Trail Blazers;1;2;1977;Moda Center;Portland;1610612757;https://cdn.nba.com/logos/nba/1610612757/global/D/logo.svg;POR;1970
+Kings;1;0;1951;Golden 1 Center;Sacramento;1610612758;https://cdn.nba.com/logos/nba/1610612758/global/D/logo.svg;SAC;1948
+Spurs;5;1;"1999, 2003, 2005, 2007, 2014";AT&T Center;San Antonio;1610612759;https://cdn.nba.com/logos/nba/1610612759/global/D/logo.svg;SAS;1976
+Raptors;1;0;2019;Scotiabank Arena;Toronto;1610612761;https://cdn.nba.com/logos/nba/1610612761/global/D/logo.svg;TOR;1995
+Jazz;0;2;;Vivint Arena;Salt Lake City;1610612762;https://cdn.nba.com/logos/nba/1610612762/primary/L/logo.svg;UTA;1974
+Wizards;1;3;1978;Capital One Arena;"Washington, D.C.";1610612764;https://cdn.nba.com/logos/nba/1610612764/global/D/logo.svg;WAS;1961
