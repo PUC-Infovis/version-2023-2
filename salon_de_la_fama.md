@@ -63,6 +63,16 @@ Por **Los Trolos** (Tomás Contreras y Cristian Carrasco)
 
 </div>
 
+<div class="rol-card" markdown="1">
+
+### Visualización de One Direction
+
+Por Beatriz Errázuriz
+
+[Enlace a visualización](https://puc-infovis.github.io/version-2023-2/salon_de_la_fama/one_direction/)
+
+</div>
+
 
 
 
