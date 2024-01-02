@@ -24,6 +24,16 @@ Por Cristóbal Osvaldo Avendaño Zamorano
 
 <div class="rol-card" markdown="1">
 
+### A Simple and Clean Guide to Kingdom Hearts
+
+Por Tomás Emilio Riquelme Cepeda
+
+[Enlace a visualización](https://puc-infovis.github.io/version-2023-2/salon_de_la_fama/kingdom_hearts/)
+
+</div>
+
+<div class="rol-card" markdown="1">
+
 ### Brecha de género en STEM, en el mundo y el Chile
 
 Por María José Millán Arriagada  y Renate Teuber De La Sotta
@@ -34,13 +44,14 @@ Por María José Millán Arriagada  y Renate Teuber De La Sotta
 
 <div class="rol-card" markdown="1">
 
-### A Simple and Clean Guide to Kingdom Hearts
+### Netflix x TOP1000 IMBD
 
-Por Tomás Emilio Riquelme Cepeda
+Por **Los Trolos** (Tomás Contreras y Cristian Carrasco)
 
-[Enlace a visualización](https://puc-infovis.github.io/version-2023-2/salon_de_la_fama/kingdom_hearts/)
+[Enlace a visualización](https://puc-infovis.github.io/version-2023-2/salon_de_la_fama/netflix/)
 
 </div>
+
 
 
 

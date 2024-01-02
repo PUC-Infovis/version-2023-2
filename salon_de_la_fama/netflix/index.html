@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="vis.css">
+    <title>Netflix x TOP1000 IMBD</title>
+    <script src="https://d3js.org/d3.v7.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Netflix x TOP1000 IMBD</h1>
+
+        <div class="help">
+            <h4>Guía de interacción:</h4>
+            <ul>
+                <li>Se permite hover sobre el grafico de barra y las burbujas</li>
+                <li>Gráfico de burbujas permite zoom y panning</li>
+                <li>Click en las burbujas para reducir información, coordinado con gráfico de barra</li>
+                <li>Usar selectores para producir cambios. Boton reset para reiniciar grafico de barras y de burbujas</li>
+            </ul>
+        </div>
+
+        <div class="case">
+            <div class="titles">
+                <h2 class="t1">Exploración con burbujas</h2>
+                <h2 class="t2">Ranking películas según criterio</h2>
+            </div>
+
+            <br>
+            <div class="vis-1-container">
+                <div class="controls-container">
+                    <svg class="vis-1-controls"></svg>
+                    agrupado por
+                    <select name="" id="classification">
+                        <option value="country">País</option>
+                        <option value="classification">Clasificación</option>
+                        <option value="decade">Decada</option>
+                    </select>
+                    ordenado por
+                    <select name="" id="sortBy">
+                        <option value="imdb_rating">imdb score</option>
+                        <option value="Meta_score">Meta score</option>
+                        <option value="duration">Duration</option>
+                    </select>
+                    <button id="reset-button">Reset</button>
+                </div>
+                <div>
+                    <svg class="vis-1">
+                        <g id="content"></g>
+                    </svg>
+                </div>
+                <svg class="vis-2"></svg>
+            </div>
+        </div>
+
+        <h2>Heatmap de películas</h2>
+        <div class="case heat-container">
+            <div class="heat-controls">
+                Datos horizontales
+                <select id="x-ax-opt">
+                    <option value="country">País de origen</option>
+                    <option value="classification">Clasificación ESRB</option>
+                    <option value="decade">Década de estreno</option>
+                    <option value="duration">Duración [m]</option>
+                    <option value="Meta_score">Meta score</option>
+                </select>
+
+                Datos verticales
+                <select id="y-ax-opt">
+                    <option value="classification">Clasificación ESRB</option>
+                    <option value="country">País de origen</option>
+                    <option value="decade">Década de estreno</option>
+                    <option value="duration">Duración [m]</option>
+                    <option value="Meta_score">Meta score</option>
+                </select>
+            </div>
+
+            <div class="heat-case">
+                <div id="heat"></div>
+            </div>
+        </div>
+
+        <script src="js/utils.js"></script>
+        <script src="js/main.js"></script>
+        <script src="js/heat.js"></script>
+        <script src="js/configuration.js"></script>
+    </div>
+</body>
+
+</html>
