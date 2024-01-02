@@ -1,0 +1,101 @@
+body {
+  margin: 0 auto;
+  background-color: lightblue;
+  background-image: url(../images/programa.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  max-width: 80%;
+  min-width: 500px;
+  text-align: center;
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../fonts/OpenSans-Medium.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../fonts/OpenSans-Bold.ttf);
+  font-weight: bold;
+}
+
+.container {
+  margin: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgba(255, 255, 255, 0.95);
+  border-radius: 10px;
+  font-family: OpenSans;
+  min-width: 1000px;
+}
+
+.vis-1-actions {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.vis-text {
+  width: 60%;
+  text-align: justify;
+  text-justify: auto;
+}
+
+.vis-1-elements {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.data-selection {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: flex-start;
+  margin: 0;
+  max-width: 30%;
+}
+
+.data-selection div {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 2px solid lightblue;
+  cursor: pointer;
+  width: 100%;
+}
+
+.buttons {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.buttons button {
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: #d96259;
+  cursor: pointer;
+  font-family: OpenSans;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
+
+
+.buttons button:hover {
+  background-color: #8a1e16;
+}
+
+.buttons button.selected {
+  background-color: #8a1e16;
+}

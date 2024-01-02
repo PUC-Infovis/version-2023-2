@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/stylesheets/vis-style.css">
+    <title>Ranking TopTopTop</title>
+    <link rel="icon" href="assets/images/favicon.png">
+    <script src="https://d3js.org/d3.v7.js"></script>
+</head>
+<body>
+
+    <div class="container">
+
+        <h1>Ranking TopTopTop</h1>
+        <h3>Visualización de Ranking Top de 31 minutos</h3>
+
+        <div class="container-vis-1">
+
+            <p>Selecciona una temporada: </p>
+            <div class="buttons">
+                <button class="boton-temporada selected" id="btn1" onclick="procesar_boton(this.id)">Temporada 1</button>
+                <button class="boton-temporada" id="btn2" onclick="procesar_boton(this.id)">Temporada 2</button>
+                <button class="boton-temporada" id="btn3" onclick="procesar_boton(this.id)">Temporada 3</button>
+                <button class="boton-temporada" id="btn4" onclick="procesar_boton(this.id)">Temporada 4</button>
+            </div>
+
+            <div class="vis-1-actions">
+
+                <h2>Posición en el ranking por semana</h2>
+                <p class="vis-text">Esta visualización muestra la posición en el ranking de cada canción por semana, siendo los posibles valores: Primer lugar,
+                    segundo lugar, tercer lugar o no aparece en el ranking. El checklist permite seleccionar las canciones que se desean visualizar,
+                    por defecto se muestran todas las canciones. Coloca el mouse sobre una línea para resaltarla. Las canciones seleccionadas también 
+                    se reflejarán en la segunda visualización.
+                </p>
+                <div class="vis-1-elements">
+                    <div id="vis-1">
+                    
+                    </div>
+    
+                    <div class="data-selection" id="checkboxes">
+                    </div>
+                </div>
+            </div>    
+
+        </div>
+
+        <div class="vis-1-actions">
+            <h2>Cantidad de apariciones en el ranking por posición</h2>
+            <p class="vis-text">Esta visualización muestra la cantidad de veces que cada canción aparece en el ranking, separado por posición (Primer,
+                segundo o tercer lugar). Esta vista se encuentra coordinada mediante el checbox de la primera visualización, selecciona desde ahí
+                las canciones que quieres que se visualicen. 
+
+            </p>
+            <div id="vis-2">
+            
+            </div>
+        </div>
+
+    </div>
+
+    <script src="main.js"></script>
+
+</body>
+</html>

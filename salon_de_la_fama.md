@@ -45,6 +45,17 @@ Por María José Millán Arriagada  y Renate Teuber De La Sotta
 
 <div class="rol-card" markdown="1">
 
+### Cienciando un _Premier League_
+
+Por Joaquin Cabello Parra y Diego Rodriguez Pizarro
+
+[Enlace a visualización](https://puc-infovis.github.io/version-2023-2/salon_de_la_fama/premier_legue/)
+
+</div>
+
+
+<div class="rol-card" markdown="1">
+
 ### Discografía de Taylor Swift
 
 Por Paula Sandoval Muñoz y Rocío Moya Valenzuela
@@ -73,6 +84,29 @@ Por **Los Trolos** (Tomás Contreras y Cristian Carrasco)
 [Enlace a visualización](https://puc-infovis.github.io/version-2023-2/salon_de_la_fama/netflix/)
 
 </div>
+
+
+<div class="rol-card" markdown="1">
+
+### Ranking canciones Spotify
+
+Por Gustavo Palacios y Diego Sotta
+
+[Enlace a visualización](https://puc-infovis.github.io/version-2023-2/salon_de_la_fama/spotify/)
+
+</div>
+
+
+<div class="rol-card" markdown="1">
+
+### Ranking TopTopTop (31 minutos)
+
+Por Alonso Arturo Vargas Manriquez
+
+[Enlace a visualización](https://puc-infovis.github.io/version-2023-2/salon_de_la_fama/31_minutos/)
+
+</div>
+
 
 <div class="rol-card" markdown="1">
 
