@@ -1,0 +1,42 @@
+body {
+    margin: 0 auto;
+    /* Puedes cambiar el color de fondo (background-color) si lo deseas */
+    background-color: rgb(255, 255, 255);
+    max-width: 80%;
+    min-width: 500px;
+    text-align: center;
+}
+
+h1 {
+    margin: 20px;
+    padding: 10px;
+}
+
+#botones {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#botones button {
+    margin: 5px;
+    padding: 8px 12px;
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#botones button:hover {
+    background-color: #e2e2e2;
+}
+
+#tooltip {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    visibility: hidden;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #ddd;
+    z-index: 10;
+    pointer-events: none;
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style_vis.css">
+    <script src="https://d3js.org/d3.v7.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v4.min.js"></script>
+    <title>Trastornos Mentales en el Mundo</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Proyecto de Analisis de Trastornos Mentales en el Mundo</h1>
+        <div id="vis-1">
+            <h2 id="titulo-1">Mapa Global de Prevalencia de Trastornos Mentales en 2017</h2>
+            <div id="botones">
+                <button id="btnPromedio">Promediados</button>
+                <button id="btnEsquizofrenia">Esquizofrenia</button>
+                <button id="btnBipolar">Bipolar</button>
+                <button id="btnAlimenticios">Alimenticios</button>
+                <button id="btnAnsiedad">Ansiedad</button>
+                <button id="btnDrogas">Drogas</button>
+                <button id="btnDepresivos">Depresivos</button>
+                <button id="btnAlcohol">Alcohol</button>
+            </div>
+        </div>
+
+        <div id="vis-2">
+            <h2 id="titulo-2">Análisis Temporal de la Prevalencia de Trastornos Mentales</h2>
+            <p>Presiona algún país para ver la especificación de este.</p>
+            <div id="botones">
+                <button id="btnPorcentual">Evolucion Porcentual</button>
+                <button id="btnCantidad">Evolucion en Cantidad de Personas</button>
+            </div>
+                
+
+        <div id="tooltip"></div>
+    </div>
+    <script src="main.js"></script>
+</body>
+
+</html>

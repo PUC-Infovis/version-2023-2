@@ -65,6 +65,17 @@ Por **Los Trolos** (Tomás Contreras y Cristian Carrasco)
 
 <div class="rol-card" markdown="1">
 
+### Trastornos Mentales en el Mundo
+
+Por Franco Paolo Anfossi Signorelli
+
+[Enlace a visualización](https://puc-infovis.github.io/version-2023-2/salon_de_la_fama/trastornos_mentales/)
+
+</div>
+
+
+<div class="rol-card" markdown="1">
+
 ### Visualización de One Direction
 
 Por Beatriz Errázuriz
