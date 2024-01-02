@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styleking.css">
+    <script src="https://d3js.org/d3.v7.js"></script>
+    <title> The Kingdom Hearts Fantasia </title>
+</head>
+<body>
+    <div>
+        <h1 class="v1"> Guía para novatos de Kingdom Hearts </h1>
+        <h2> ¡Bienvenid@ al maravilloso mundo de Kingdom Hearts! En esta página te ayudaremos a abordar la saga dependiendo del juego de la franquicia por el que desees empezar.</h2>
+        <h2>¿Quieres seguir con el juego que continúa la historia del que acabas de completar? O quizás ¿quieres continuar con el que fue lanzado al mercado a continuación?
+            Puede que simplemente quieras conocer con qué juegos puedes continuar sabiendo la información de aquel que acabas de completar.
+        </h2>
+        <h3> En el diagrama de abajo verás estas tres tipos de relaciones "juego acabado-siguiente juego", donde: </h3>
+        <h3 class="funcionalidades">
+            -Posar el mouse sobre un juego (simbolizado como una cerradura que abrirás para conocer el mundo detrás) mostrará las conexiones
+            desde tal juego hacia aquellos que se pueden jugar según los criterios "cronología" (continuación narrativa), "fecha de lanzamiento" y "jugabilidad", aludiendo a las formas de abordar los juegos mencionadas anteriormente.
+        Los colores de las relaciones de continuidad cronológica, de lanzamiento y de jugabilidad son celeste, rosado y morado respectivamente.
+        </h3>
+        
+        <h3 class="funcionalidades">
+            -Existen juegos que sirven como compilaciones de otros juegos, y al posar el mouse sobre uno de estos juegos remarcará cuáles otros juegos son parte de dicha compilación.
+        </h3>
+        <h3 class="funcionalidades">
+            -Sacar el mouse desde un juego mostrará nuevamente todas las conexiones, incluyendo las que habían sido ocultadas en el punto anterior.
+        </h3>
+        <h3 class="funcionalidades"> 
+            -Hacer un click sobre un juego gatillará lo anterior, además de actualizar la información en el cuadro auxiliar de información, donde conocerás las consolas en las que se puede jugar el título, la portada de este,
+            el año de lanzamiento y la canción introductoria u "opening" de la entrega. Además, sacar el mouse desde el juego luego de hacer click NO volverá a iluminar todos los juegos, para que así puedas ver sin problemas los juegos conectados al clickeado, pero hacer click sobre
+            un juego ya clickeado, "deseleccionara" el juego, volviendo a mostrar todos los enlaces de todos los juegos. El cuadro auxiliar seguirá con la información del último clickeado, para que lo tengas de referencia.
+        </h3>
+        <h3 class="funcionalidades">
+            -Por último, el hacer click en un juego gatillará un cambio en la visualización de los personajes de la franquicia. Leer más abajo para más información.
+        </h3>
+
+        <h3>
+            Finalmente, dispones de dos botones que al ser presionados dejarán visibles solo los enlaces perteneciente a la categoría que representa el botón. Para ayudar la comprensión del diagrama resultante,
+            sobre cada juego se mostrará un número que representa la posición en el orden elegido: el año correspondiente si se eligió fecha de lanzamiento y un número indicando su posición en la cronología narrativa si se 
+            eligió cronología.
+        </h3>
+        <h3> 
+            De esta forma, al ver el número correspondiente al orden elegido sobre un juego te permitirá ver el anterior y el siguiente juego en ese orden siguiendo las
+            lineas que provenien de dicho juego.  
+        </h3>
+        
+        <h1 class="v1"> "May your heart be your guiding key"</h1>
+
+        <h2 id="buttons"> Selecciona el tipo de orden </h2>
+        <button id="ordcro"> Cronológico </button>
+        <button id="ordrel"> Fecha de Lanzamiento </button>
+        <div id="vis-1"></div>
+
+        <h1 class="v1"> El corazón de la franquicia</h1>
+        <h2>
+            ¿Que sería una gran historia sin sus personajes?
+        </h2>
+        <h2>
+            En el siguiente diagrama en forma de constelación, cada "estrella" representa uno de los protagonistas de la saga, y cada enlace representa el tipo de relación entre los personajes conectados:
+        </h2>
+        <h3 class="funcionalidades">
+            Los enlaces rojos representan que los personajes tienen una relación muy cercana en la saga.
+        </h3>
+        <h3 class="funcionalidades">
+            Los enlaces naranjos representan que los personajes tienen una relación medianamente cercana: se conocen e interactuan, pero no de manera significativa.
+        </h3>
+        <h3 class="funcionalidades">
+            Los enlaces amarillos representan que los personajes tienen una relación débil entre sí: apenas se conocen.
+        </h3>
+        <h3>
+            Posa el mouse sobre una estrella para descubrir de qué personaje se trata y con qué personajes está conectado. En el rectángulo auxiliar aprenderás el nombre y apariencia del personaje.
+        </h3>
+        <h3>
+            Sacar el mouse de una estrella, como en el diagrama anterior, retornará todos los enlaces y dejará la información en el rectángulo auxiliar del último personaje "hovereado".
+        </h3>
+        <h3>
+            Hacer click sobre una estrella produce el efecto de "hover", resaltando el nodo seleccionado cambiando su color a uno rojo. Como en el diagrama anterior, el hacer click produce que el efecto de "mouseleave" no ocurra, lo que permitirá un estudio más prolijo de las relaciones.
+        </h3>
+        <h3>
+            Finalmente, el hacer click en un juego en la visualización anterior producirá que en la constelación los personajes que aparecen en ese juego se destaquen de un color azul, con lo que podrás 
+            aprender quiénes aparecen en qué juego.
+        </h3>
+     
+        <div id="vis-2"></div>
+    </div> 
+    <script src="main.js"></script>
+</body>
+
+
+</html>

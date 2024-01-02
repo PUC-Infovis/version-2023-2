@@ -1,0 +1,950 @@
+{
+    "juegos": [
+        {
+            "nombre": "KingdomHeartsI",
+            "release": 2002,
+            "lore_position": 5,
+            "opening": "Simple and Clean (Remix)",
+            "plataformas": [
+                "PS2"
+            ],
+            "jugables": [
+                "Kingdom Hearts II",
+                "Chain of Memories",
+                "358/2 Days",
+                "Birth by Sleep",
+                "Kingdom Hearts X",
+                "Kingdom Hearts Dark Road"
+            ],
+            "personajes": [
+                "Sora",
+                "Kairi",
+                "Riku",
+                "Mickey",
+                "AnsemHeartless",
+                "Donald",
+                "Goofy"
+            ],
+            "portada": "./fotojuegos/Kingdom_Hearts.jpg",
+            "compilado": "KingdomHeartsI5II5"
+        },
+        {
+            "nombre": "KingdomHeartsII",
+            "release": 2005,
+            "lore_position": 8,
+            "opening": "Sanctuary",
+            "plataformas": [
+                "PS2"
+            ],
+            "jugables": [
+                "Kingdom Hearts I",
+                "Chain of Memories",
+                "358/2 Days",
+                "Birth by Sleep",
+                "Kingdom Hearts X",
+                "Kingdom Hearts Dark Road",
+                "Re Coded",
+                "Dream Drop Distance",
+                "Kingdom Hearts III"
+            ],
+            "personajes": [
+                "Sora",
+                "Kairi",
+                "Riku",
+                "Mickey",
+                "Xemnas",
+                "Donald",
+                "Goofy",
+                "Xaldin",
+                "Axel",
+                "Roxas",
+                "Namine",
+                "Saix",
+                "AnsemTheWise",
+                "Luxord",
+                "Xigbar",
+                "Demyx"
+            ],
+            "portada": "./fotojuegos/KH2.png",
+            "compilado": "KingdomHeartsI5II5"
+        },
+        {
+            "nombre": "ChainOfMemories",
+            "release": 2004,
+            "lore_position": 7,
+            "opening": "Dearly Beloved (música de menú)",
+            "plataformas": [
+                "GBA"
+            ],
+            "jugables": [
+                "358/2 Days",
+                "Birth by Sleep",
+                "Kingdom Hearts X",
+                "Kingdom Hearts Dark Road",
+                "Kingdom Hearts I",
+                "Kingdom Hearts II"
+            ],
+            "personajes": [
+                "Sora",
+                "Namine",
+                "Riku",
+                "Mickey",
+                "Axel",
+                "Donald",
+                "Goofy",
+                "Zexion",
+                "Lexaus",
+                "Larxene",
+                "Marluxia",
+                "Vexen",
+                "AnsemHeartless",
+                "AnsemTheWise"
+            ],
+            "portada": "./fotojuegos/COM.jpg",
+            "compilado": "KingdomHeartsI5II5"
+        },
+        {
+            "nombre": "358Over2Days",
+            "release": 2009,
+            "lore_position": 6,
+            "opening": "Sanctuary",
+            "plataformas": [
+                "NDS"
+            ],
+            "jugables": [
+                "Birth by Sleep",
+                "Kingdom Hearts X",
+                "Kingdom Hearts Dark Road",
+                "Kingdom Hearts I"
+            ],
+            "personajes": [
+                "Roxas",
+                "Xemnas",
+                "Axel",
+                "Lexaus",
+                "Xion",
+                "Zexion",
+                "Xaldin",
+                "Larxene",
+                "Marluxia",
+                "Vexen",
+                "Luxord",
+                "Xigbar",
+                "Demyx",
+                "Saix",
+                "Riku",
+                "Namine",
+                "AnsemTheWise"
+            ],
+            "portada": "./fotojuegos/358.jpg",
+            "compilado": "KingdomHeartsI5II5"
+        },
+        {
+            "nombre": "BirthBySleep",
+            "release": 2010,
+            "lore_position": 3,
+            "opening": "Simple and Clean (Remix)",
+            "plataformas": [
+                "PSP"
+            ],
+            "jugables": [
+                "Kingdom Hearts I",
+                "Kingdom Hearts X",
+                "Kingdom Hearts Dark Road",
+                "Kingdom Hearts 0.2"
+            ],
+            "personajes": [
+                "Aqua",
+                "Terra",
+                "Ventus",
+                "Mickey",
+                "Xehanort",
+                "Vanitas"
+            ],
+            "portada": "./fotojuegos/BBS.jpg",
+            "compilado": "KingdomHeartsI5II5"
+        },
+        {
+            "nombre": "KingdomHearts02",
+            "release": 2017,
+            "lore_position": 4,
+            "opening": "Simple and Clean: A Ray of Hope",
+            "plataformas": [
+                "PS4",
+                "Xbox One"
+            ],
+            "jugables": [
+                "Kingdom Hearts I",
+                "Birth by Sleep",
+                "Kingdom Hearts X",
+                "Kingdom Hearts Dark Road"
+            ],
+            "personajes": [
+                "Aqua",
+                "Terra",
+                "Mickey"
+            ],
+            "portada": "./fotojuegos/KH02.jpeg",
+            "compilado": "KingdomHeartsII8"
+        },
+        {
+            "nombre": "DreamDropDistance",
+            "release": 2012,
+            "lore_position": 10,
+            "opening": "Simple and Clean (Instrumental)",
+            "plataformas": [
+                "3DS"
+            ],
+            "jugables": [
+                "Kingdom Hearts III",
+                "358/2 Days",
+                "Birth by Sleep",
+                "Kingdom Hearts X",
+                "Kingdom Hearts Dark Road",
+                "Kingdom Hearts II",
+                "Kingdom Hearts I",
+                "Re Coded"
+            ],
+            "personajes": [
+                "Sora",
+                "Riku",
+                "AnsemHeartless",
+                "Xemnas",
+                "YoungXehanort",
+                "Xehanort",
+                "Roxas",
+                "Xion",
+                "Ventus",
+                "Axel",
+                "Mickey",
+                "Xigbar",
+                "Saix"
+            ],
+            "portada": "./fotojuegos/DDD.jpg",
+            "compilado": "KingdomHeartsII8"
+        },
+        {
+            "nombre": "ReCoded",
+            "release": 2011,
+            "lore_position": 9,
+            "opening": "Simple and Clean (Remix)",
+            "plataformas": [
+                "NDS"
+            ],
+            "jugables": [
+                "358/2 Days",
+                "Birth by Sleep",
+                "Kingdom Hearts X",
+                "Kingdom Hearts Dark Road",
+                "Kingdom Hearts I"
+            ],
+            "personajes": [
+                "Sora"
+            ],
+            "portada": "./fotojuegos/RECODED.jpg",
+            "compilado": "KingdomHeartsI5II5"
+        },
+        {
+            "nombre": "KingdomHeartsIII",
+            "release": 2019,
+            "lore_position": 11,
+            "opening": "Face my Fears",
+            "plataformas": [
+                "PS4",
+                "Xbox One"
+            ],
+            "jugables": [
+                "Kingdom Hearts II",
+                "358/2 Days",
+                "Birth by Sleep",
+                "Kingdom Hearts X",
+                "Kingdom Hearts Dark Road",
+                "Re Mind",
+                "Melody of Memory",
+                "Kingdom Hearts I",
+                "Kingdom Hearts 0.2"
+            ],
+            "personajes": [
+                "Sora",
+                "Kairi",
+                "Riku",
+                "Mickey",
+                "AnsemHeartless",
+                "Donald",
+                "Goofy",
+                "Namine",
+                "Roxas",
+                "Xion",
+                "Xemnas",
+                "YoungXehanort",
+                "Xehanort",
+                "Ventus",
+                "Axel",
+                "Xigbar",
+                "Saix",
+                "Terra",
+                "Aqua",
+                "Vanitas",
+                "Luxord",
+                "AnsemTheWise",
+                "Marluxia",
+                "Larxene",
+                "Demyx",
+                "Vexen",
+                "Zexion"
+            ],
+            "portada": "./fotojuegos/KH3.jpg",
+            "compilado": "none"
+        },
+        {
+            "nombre": "ReMind",
+            "release": 2020,
+            "lore_position": 12,
+            "opening": "Dearly Beloved",
+            "plataformas": [
+                "PS4",
+                "Xbox One"
+            ],
+            "jugables": [
+                "Kingdom Hearts III",
+                "358/2 Days",
+                "Birth by Sleep",
+                "Kingdom Hearts X",
+                "Kingdom Hearts Dark Road",
+                "Kingdom Hearts 0.2",
+                "Kingdom Hearts I"
+            ],
+            "personajes": [
+                "Sora",
+                "Kairi",
+                "Luxord",
+                "Xigbar",
+                "Mickey",
+                "Xehanort"
+            ],
+            "portada": "./fotojuegos/REMIND.jpeg",
+            "compilado": "none"
+        },
+        {
+            "nombre": "MelodyOfMemory",
+            "release": 2020,
+            "lore_position": 13,
+            "opening": "Simple and Clean",
+            "plataformas": [
+                "PS4",
+                "Xbox One"
+            ],
+            "jugables": [
+                "Kingdom Hearts III",
+                "Kingdom Hearts I",
+                "358/2 Days",
+                "Birth by Sleep",
+                "Kingdom Hearts X",
+                "Kingdom Hearts Dark Road"
+            ],
+            "personajes": [
+                "Sora",
+                "Kairi"
+            ],
+            "portada": "./fotojuegos/MOM.avif",
+            "compilado": "none"
+        },
+        {
+            "nombre": "KingdomHeartsX",
+            "release": 2013,
+            "lore_position": 1,
+            "opening": "Dearly Beloved",
+            "plataformas": [
+                "Android",
+                "IOS"
+            ],
+            "jugables": [
+                "Kingdom Hearts I",
+                "Birth by Sleep",
+                "Kingdom Hearts Dark Road",
+                "Kingdom Hearts I.5 + II.5"
+            ],
+            "personajes": [
+                "YoungXehanort"
+            ],
+            "portada": "./fotojuegos/KHX.jpeg",
+            "compilado": "none"
+        },
+        {
+            "nombre": "KingdomHeartsDarkRoad",
+            "release": 2020,
+            "lore_position": 2,
+            "opening": "Dive to the Heart",
+            "plataformas": [
+                "Android"
+            ],
+            "jugables": [
+                "Kingdom Hearts I",
+                "Birth by Sleep",
+                "Kingdom Hearts X",
+                "Kingdom Hearts I.5 + II.5"
+            ],
+            "personajes": [
+                "YoungXehanort"
+            ],
+            "portada": "./fotojuegos/KHDR.jpeg",
+            "compilado": "none"
+        },
+        {
+            "nombre": "KingdomHeartsI5II5",
+            "release": 2017,
+            "lore_position": 2.5,
+            "opening": "Dearly Beloved (música de menú)",
+            "plataformas": [
+                "PS4",
+                "Xbox One",
+                "Nintendo Switch"
+            ],
+            "jugables": [
+                "Kingdom Hearts II.8",
+                "Kingdom Hearts Dark Road",
+                "Kingdom Hearts X"
+            ],
+            "personajes": [
+                "Sora",
+                "Kairi",
+                "Riku",
+                "Mickey",
+                "AnsemHeartless",
+                "Donald",
+                "Goofy",
+                "Namine",
+                "Roxas",
+                "Xion",
+                "Xemnas",
+                "Xehanort",
+                "Ventus",
+                "Axel",
+                "Xigbar",
+                "Saix",
+                "Terra",
+                "Aqua",
+                "Vanitas",
+                "Luxord",
+                "AnsemTheWise",
+                "Marluxia",
+                "Larxene",
+                "Demyx",
+                "Vexen",
+                "Zexion",
+                "Lexaus",
+                "Xaldin"
+            ],
+            "portada": "./fotojuegos/KHII5.jpg",
+            "compilado": "none"
+        },
+        {
+            "nombre": "KingdomHeartsII8",
+            "release": 2017,
+            "lore_position": 8.5,
+            "opening": "Dearly Beloved (música de menú)",
+            "plataformas": [
+                "PS4",
+                "Xbox One",
+                "Nintendo Switch"
+            ],
+            "jugables": [
+                "Kingdom Hearts III",
+                "Kingdom Hearts Dark Road",
+                "Kingdom Hearts X"
+            ],
+            "personajes": [
+                "Sora",
+                "Kairi",
+                "Riku",
+                "Mickey",
+                "AnsemHeartless",
+                "Donald",
+                "Goofy",
+                "Namine",
+                "Roxas",
+                "Xion",
+                "Xemnas",
+                "Xehanort",
+                "Ventus",
+                "Axel",
+                "Xigbar",
+                "Saix",
+                "Terra",
+                "Aqua",
+                "Vanitas",
+                "Luxord",
+                "YoungXehanort"
+            ],
+            "portada": "./fotojuegos/KH8.jpg",
+            "compilado": "none"
+        }
+    ],
+    "links": [
+        {
+            "source": "KingdomHeartsI",
+            "target": "KingdomHeartsII",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsI",
+            "target": "358Over2Days",
+            "type": "crono"
+        },
+        {
+            "source": "KingdomHeartsI",
+            "target": "BirthBySleep",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsI",
+            "target": "KingdomHeartsX",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsI",
+            "target": "KingdomHeartsDarkRoad",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsI",
+            "target": "ChainOfMemories",
+            "type": "date"
+        },
+        {
+            "source": "KingdomHeartsII",
+            "target": "KingdomHeartsDarkRoad",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsII",
+            "target": "ReCoded",
+            "type": "crono"
+        },
+        {
+            "source": "KingdomHeartsII",
+            "target": "BirthBySleep",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsII",
+            "target": "KingdomHeartsX",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsII",
+            "target": "DreamDropDistance",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsII",
+            "target": "KingdomHeartsIII",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsII",
+            "target": "KingdomHeartsI",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsII",
+            "target": "358Over2Days",
+            "type": "date"
+        },
+        {
+            "source": "ChainOfMemories",
+            "target": "KingdomHeartsDarkRoad",
+            "type": "juga"
+        },
+        {
+            "source": "ChainOfMemories",
+            "target": "KingdomHeartsII",
+            "type": "crono"
+        },
+        {
+            "source": "ChainOfMemories",
+            "target": "KingdomHeartsII",
+            "type": "date"
+        },
+        {
+            "source": "ChainOfMemories",
+            "target": "358Over2Days",
+            "type": "juga"
+        },
+        {
+            "source": "ChainOfMemories",
+            "target": "BirthBySleep",
+            "type": "juga"
+        },
+        {
+            "source": "ChainOfMemories",
+            "target": "KingdomHeartsDarkRoad",
+            "type": "juga"
+        },
+        {
+            "source": "ChainOfMemories",
+            "target": "KingdomHeartsX",
+            "type": "juga"
+        },
+        {
+            "source": "ChainOfMemories",
+            "target": "KingdomHeartsI",
+            "type": "juga"
+        },
+        {
+            "source": "358Over2Days",
+            "target": "ChainOfMemories",
+            "type": "crono"
+        },
+        {
+            "source": "358Over2Days",
+            "target": "KingdomHeartsDarkRoad",
+            "type": "juga"
+        },
+        {
+            "source": "358Over2Days",
+            "target": "KingdomHeartsX",
+            "type": "juga"
+        },
+        {
+            "source": "358Over2Days",
+            "target": "BirthBySleep",
+            "type": "date"
+        },
+        {
+            "source": "BirthBySleep",
+            "target": "KingdomHearts02",
+            "type": "crono"
+        },
+        {
+            "source": "BirthBySleep",
+            "target": "KingdomHeartsI",
+            "type": "juga"
+        },
+        {
+            "source": "BirthBySleep",
+            "target": "KingdomHeartsDarkRoad",
+            "type": "juga"
+        },
+        {
+            "source": "BirthBySleep",
+            "target": "KingdomHeartsX",
+            "type": "juga"
+        },
+        {
+            "source": "BirthBySleep",
+            "target": "ReCoded",
+            "type": "date"
+        },
+        {
+            "source": "KingdomHearts02",
+            "target": "KingdomHeartsX",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHearts02",
+            "target": "KingdomHeartsI",
+            "type": "crono"
+        },
+        {
+            "source": "KingdomHearts02",
+            "target": "KingdomHeartsDarkRoad",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHearts02",
+            "target": "KingdomHeartsIII",
+            "type": "date"
+        },
+        {
+            "source": "DreamDropDistance",
+            "target": "KingdomHeartsDarkRoad",
+            "type": "juga"
+        },
+        {
+            "source": "DreamDropDistance",
+            "target": "KingdomHeartsIII",
+            "type": "crono"
+        },
+        {
+            "source": "DreamDropDistance",
+            "target": "KingdomHearts02",
+            "type": "juga"
+        },
+        {
+            "source": "DreamDropDistance",
+            "target": "358Over2Days",
+            "type": "juga"
+        },
+        {
+            "source": "DreamDropDistance",
+            "target": "BirthBySleep",
+            "type": "juga"
+        },
+        {
+            "source": "DreamDropDistance",
+            "target": "KingdomHeartsX",
+            "type": "date"
+        },
+        {
+            "source": "DreamDropDistance",
+            "target": "KingdomHeartsII",
+            "type": "juga"
+        },
+        {
+            "source": "DreamDropDistance",
+            "target": "KingdomHeartsI",
+            "type": "juga"
+        },
+        {
+            "source": "ReCoded",
+            "target": "358Over2Days",
+            "type": "juga"
+        },
+        {
+            "source": "ReCoded",
+            "target": "DreamDropDistance",
+            "type": "crono"
+        },
+        {
+            "source": "ReCoded",
+            "target": "KingdomHeartsX",
+            "type": "juga"
+        },
+        {
+            "source": "ReCoded",
+            "target": "KingdomHeartsDarkRoad",
+            "type": "juga"
+        },
+        {
+            "source": "ReCoded",
+            "target": "KingdomHeartsI",
+            "type": "juga"
+        },
+        {
+            "source": "ReCoded",
+            "target": "DreamDropDistance",
+            "type": "date"
+        },
+        {
+            "source": "KingdomHeartsIII",
+            "target": "KingdomHeartsI",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsIII",
+            "target": "KingdomHeartsII",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsIII",
+            "target": "358Over2Days",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsIII",
+            "target": "BirthBySleep",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsIII",
+            "target": "KingdomHeartsX",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsIII",
+            "target": "KingdomHeartsDarkRoad",
+            "type": "date"
+        },
+        {
+            "source": "KingdomHeartsIII",
+            "target": "MelodyOfMemory",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsIII",
+            "target": "ReMind",
+            "type": "crono"
+        },
+        {
+            "source": "ReMind",
+            "target": "KingdomHearts02",
+            "type": "juga"
+        },
+        {
+            "source": "ReMind",
+            "target": "MelodyOfMemory",
+            "type": "crono"
+        },
+        {
+            "source": "ReMind",
+            "target": "MelodyOfMemory",
+            "type": "date"
+        },
+        {
+            "source": "ReMind",
+            "target": "BirthBySleep",
+            "type": "juga"
+        },
+        {
+            "source": "ReMind",
+            "target": "KingdomHeartsX",
+            "type": "juga"
+        },
+        {
+            "source": "ReMind",
+            "target": "358Over2Days",
+            "type": "juga"
+        },
+        {
+            "source": "ReMind",
+            "target": "KingdomHeartsI",
+            "type": "juga"
+        },
+        {
+            "source": "MelodyOfMemory",
+            "target": "KingdomHeartsIII",
+            "type": "juga"
+        },
+        {
+            "source": "MelodyOfMemory",
+            "target": "358Over2Days",
+            "type": "juga"
+        },
+        {
+            "source": "MelodyOfMemory",
+            "target": "BirthBySleep",
+            "type": "juga"
+        },
+        {
+            "source": "MelodyOfMemory",
+            "target": "KingdomHeartsI",
+            "type": "juga"
+        },
+        {
+            "source": "MelodyOfMemory",
+            "target": "KingdomHeartsX",
+            "type": "juga"
+        },
+        {
+            "source": "MelodyOfMemory",
+            "target": "KingdomHeartsDarkRoad",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsX",
+            "target": "KingdomHeartsDarkRoad",
+            "type": "crono"
+        },
+        {
+            "source": "KingdomHeartsX",
+            "target": "KingdomHeartsI",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsX",
+            "target": "BirthBySleep",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsX",
+            "target": "KingdomHeartsI5II5",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsX",
+            "target": "KingdomHeartsI5II5",
+            "type": "date"
+        },
+        {
+            "source": "KingdomHeartsX",
+            "target": "KingdomHearts02",
+            "type": "date"
+        },
+        {
+            "source": "KingdomHeartsDarkRoad",
+            "target": "KingdomHeartsI5II5",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsDarkRoad",
+            "target": "BirthBySleep",
+            "type": "crono"
+        },
+        {
+            "source": "KingdomHeartsDarkRoad",
+            "target": "KingdomHeartsI",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsDarkRoad",
+            "target": "KingdomHeartsI5II5",
+            "type": "crono"
+        },
+        {
+            "source": "KingdomHeartsDarkRoad",
+            "target": "ReMind",
+            "type": "date"
+        },
+        {
+            "source": "KingdomHeartsI5II5",
+            "target": "KingdomHeartsX",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsI5II5",
+            "target": "KingdomHeartsII8",
+            "type": "crono"
+        },
+        {
+            "source": "KingdomHeartsI5II5",
+            "target": "KingdomHeartsII8",
+            "type": "date"
+        },
+        {
+            "source": "KingdomHeartsI5II5",
+            "target": "KingdomHeartsDarkRoad",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsI5II5",
+            "target": "DreamDropDistance",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsII8",
+            "target": "KingdomHeartsDarkRoad",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsII8",
+            "target": "KingdomHeartsIII",
+            "type": "crono"
+        },
+        {
+            "source": "KingdomHeartsII8",
+            "target": "KingdomHeartsIII",
+            "type": "date"
+        },
+        {
+            "source": "KingdomHeartsII8",
+            "target": "KingdomHeartsX",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsII8",
+            "target": "BirthBySleep",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsII8",
+            "target": "KingdomHeartsI",
+            "type": "juga"
+        },
+        {
+            "source": "KingdomHeartsII8",
+            "target": "358Over2Days",
+            "type": "juga"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+body {
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ef4660f-bef4-4b16-b208-5d322fb45b31/d55znk8-27e36216-582c-44a9-8aab-935ac59e9bb8.jpg/v1/fill/w_900,h_465,q_75,strp/kingdom_hearts_3d_wallpaper_by_immortalxxxlover25_d55znk8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDY1IiwicGF0aCI6IlwvZlwvMmVmNDY2MGYtYmVmNC00YjE2LWIyMDgtNWQzMjJmYjQ1YjMxXC9kNTV6bms4LTI3ZTM2MjE2LTU4MmMtNDRhOS04YWFiLTkzNWFjNTllOWJiOC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.LDUqZXSyfdckd0P5HvGdaIUekZfumneGvi8fqJ4KMZU");
+}
+
+svg {
+    border: solid 2px white;
+}
+.v1{
+    color: red;
+}
+h3{
+    color : white
+}
+h2{
+    color : white
+}
+#ordcro{
+    background-color: #A6F7F5;
+}
+#ordrel{
+    background-color: #F9629F;
+}
+.funcionalidades{
+    color: antiquewhite;
+}
+#buttons{
+    color: #eed202;
+}
+.v2{
+    color: white;
+}
