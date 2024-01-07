@@ -1,0 +1,80 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #1a1a1a; 
+    color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+h1, h2, h3 {
+    color: #fff; 
+    margin-bottom: 20px;
+}
+
+p, a {
+    font-size: 1.1em;
+    line-height: 1.6em;
+}
+
+a {
+    color: #cc4def; 
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.case, .response {
+    background: #242424;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.response h4 {
+    color: #4d9fef; 
+}
+
+.hint {
+    font-style: italic;
+    color: #6c757d;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer a {
+    color: #fff;
+    margin: 0 10px;
+}
+
+
+
+/* sacado de tarea de seba */
+.tooltip {
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-size: 14px;
+    color: purple;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    pointer-events: none;
+    font-family: 'Lucida Sans';
+}
+
+.faded {
+    opacity: 0.3;
+}

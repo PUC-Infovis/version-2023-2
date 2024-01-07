@@ -66,6 +66,16 @@ Por Paula Sandoval Muñoz y Rocío Moya Valenzuela
 
 <div class="rol-card" markdown="1">
 
+### Estadísticas VCT (_Valorant Champions Tour_)
+
+Por Matías Iñaki y Sebastián Silva
+
+[Enlace a visualización](https://puc-infovis.github.io/version-2023-2/salon_de_la_fama/valorant/)
+
+</div>
+
+<div class="rol-card" markdown="1">
+
 ### NBA _Stats_
 
 Por **Pochinki-team** (Tomas Oyaneder Rivera y Adolfo Parra Contreras)

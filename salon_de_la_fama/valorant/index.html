@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.js"></script>
+    <title>Estadísticas de VCT</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Estadísticas de VCT</h1>
+        <p>En esta página se presentan las estadísticas de los datos de VCT.</p>
+        <h2>Visualización 1: Diagrama de barras multiples</h2>
+        <p>Se selecciona en el menú de dropdown el atributo que se quiere mostrar y las cantidad de jugadores que se
+            muestren en la pantalla.
+            Se puede seleccionar una barra para mostrar más información sobre el dato en la visualización 3.
+            Para deseleccionar, se debe hacer doble click en la barra seleccionada.
+        </p>
+        <div>
+            <h5>Ordenar por top</h5>
+            <select id="order-by">
+                <option value="kills">-</option>
+                <option value="kills" selected>Kills</option>
+                <option value="assists">Assists</option>
+                <option value="deaths">Deaths</option>
+            </select>
+            <select id="cantidad_jugadores">
+                <option value=5 selected>5</option>
+                <option value=10>10</option>
+                <option value=15>15</option>
+            </select>
+        </div>
+        <div id="vis1">
+        </div>
+        <h2>Visualización 2: Diagrama de caja</h2>
+        <p>En la selección múltiple que se encuentra abajo, apreta en Kills, Assists o Deaths, para ver el diagrama de
+            caja de cada torneo respecto a esos datos. Si se pasa el cursor encima de una barra, se recibirá información
+            adicional con los valores exactos de la visualización, como lo son la mediana y el rango intercuartil.</p>
+        <div id="vis2">
+        </div>
+        <div id="ordenarPor" onchange="ValorSeleccionado_boxplot()">
+            <h5>Ordenar por</h5>
+            <label>
+                <input checked type="radio" name="valor_boxplot" value="kills">
+                Kills
+            </label>
+            <label>
+                <input type="radio" name="valor_boxplot" value="assists">
+                Assists
+            </label>
+            <label>
+                <input type="radio" name="valor_boxplot" value="deaths">
+                Deaths
+            </label>
+        </div>
+        <h2>Visualización 3: Scatter plot</h2>
+        <p>En el gráfico que se ve abajo, se ven puntos, que representan a jugadores, y están posicionados según la
+            cantidad de kills por rondas y muertes por rondas. Los colores representan el torneo que se está jugando.
+        </p>
+        <p> A su vez, abajo de la visualización hay un minimapa, en el que se puede hacer un brush en el, provocando un
+            efecto de zoom en la presentación original, y si se hace doble click en la visualización se retorna al zoom
+            original. También, si se presiona un punto, se marcarán todos los jugadores que participaron en ese torneo;
+            para sacarlo, simplemente hacer un click en el espacio vacío.</p>
+        <p>Por último, si se pasa el cursor encima de un punto, se mostrará información adicional de ese jugador.</p>
+        <p>Con respecto a la interacción desde la visualización 1, se marcará el jugador y el torneo en el que jugó.</p>
+        <div id="vis3">
+        </div>
+        <p>Bug conocido: los puntos se salen de la visualización.</p>
+        <p>Bug conocido: Hay veces en las que varios jugadores tuvieron la misma cantidad de kpr y dpr, por lo que están
+            superpuestos.</p>
+        <script src="main.js"></script>
+</body>
+
+</html>
