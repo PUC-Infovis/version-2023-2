@@ -31,6 +31,14 @@ body {
   min-width: 1000px;
 }
 
+.container h1 {
+  margin-bottom: 0px;
+}
+.container h3 {
+  margin-top: 5px;
+  padding-bottom: 20px;
+}
+
 .vis-1-actions {
   display: flex;
   flex-flow: column wrap;
@@ -89,13 +97,14 @@ body {
   font-size: 16px;
   font-weight: bold;
   color: white;
-}
-
-
-.buttons button:hover {
-  background-color: #8a1e16;
+  transition: all 0.2s ease-in-out;
 }
 
 .buttons button.selected {
   background-color: #8a1e16;
+}
+
+.buttons button:hover {
+  background-color: #571813;
+  transform: translate(0, -5px);
 }
